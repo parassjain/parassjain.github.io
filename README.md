@@ -1,12 +1,12 @@
-# Mria is a multipurpose Jekyll blog theme.
+# Hilton – super simple portfolio theme for Jekyll
 
-Mria is a high-quality multipurpose Jekyll theme with a unique style and clean code. You can use Mria for multipurpose like blog, magazine, portfolio, etc. This theme is fully responsive, and it looks good on all types of screens and devices. If you’re looking for a theme that is clean, high performance, and simple, the Mria theme is exactly what you’re looking for then.
+The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
 
 * * *
 
 ### Demo
 
-Check the theme in action [Live Demo](https://mria.netlify.app/) |
+Check the theme in action [Live Demo](https://hilton-jekyll.netlify.app/) |
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
@@ -14,15 +14,14 @@ Check the theme in action [Live Demo](https://mria.netlify.app/) |
 ### Theme features
 
 - Works with GitHub Pages (host it for free)
-- Dark and light mode
+- Dark and light mode user can select themself
 - No jQuery, only vanilla JS
 - 100% responsive Design
-- Clean and Modern Code
+- Clean Code
 - Optimized for mobile devices
-- Section featured posts
-- Section blog
-- Section videos
-- Section tag
+- Section Blog
+- Section Works
+- Section Testimonials
 - Super fast performance ⚡⚡⚡
 - Social sharing buttons
 - Scroll to top button
@@ -31,11 +30,7 @@ Check the theme in action [Live Demo](https://mria.netlify.app/) |
 - Medium style image zoom
 - Image Lazy loading
 - Image gallery
-- Tag page
-- Author page
 - Custom logo support
-- Support for multiple authors
-- Supports video posts
 - Supports contact form (Formspree)
 - Supports MailChimp newsletter
 - Supports Disqus comments
@@ -64,7 +59,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ### Documentation
 
-Before using the Mria theme, please read the attached documentation.
+Before using the Hilton theme, please read the attached documentation.
 
 * * *
 

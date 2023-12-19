@@ -3,10 +3,10 @@
 -------------------------------------------------------------------*/
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-:: Template name: Mria
-::
+:: Template name: Hilton
+:: The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.
 :: Template Author: Artem Sheludko
-:: Version: 1.0
+:: Version: 1.1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -21,19 +21,19 @@
     2.1-Base
 :: 3-Modules
     3.1-Header
-    3.2-Search
-    3.3-Pagination
-    3.4-Footer
-    3.5-Gallery
-    3.6-Hero
-    3.7-Article
-    3.8-Contact
-    3.9-Sections
-    3.10-Section Tags
-    3.11-Subscribe
+    3.2-Pagination
+    3.3-Buttons
+    3.4-Gallery
+    3.5-Hero
+    3.6-Article
+    3.7-Contact
+    3.8-Sections
+    3.9-Projects
+    3.10-Testimonials
+    3.11-Footer
 :: 4-Layouts
-    4.1-Post Page
-    4.2-Authors
+    4.1-Post
+    4.2-Project
     4.3-Tags Page
 <<<<<<<<<<<<<<<<<<<<<<<<<<<< */
 
@@ -57,7 +57,9 @@
 @import '1-tools/syntax-highlighting';
 /* >>>>>>>>>>>>>> :: 1.5-Grid <<<<<<<<<<<<<<< */
 @import '1-tools/grid';
-/* >>>>>>>>>>>>>> :: 1.6-Animate <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 1.6-Tiny Slider <<<<<<<<<<<<<<< */
+@import '1-tools/tiny-slider';
+/* >>>>>>>>>>>>>> :: 1.7-Animate <<<<<<<<<<<<<<< */
 @import '1-tools/animate';
 
 
@@ -73,26 +75,26 @@
 ======================= */
 /* >>>>>>>>>>>>>> :: 3.1-Header <<<<<<<<<<<<<<< */
 @import '3-modules/header';
-/* >>>>>>>>>>>>>> :: 3.2-Search <<<<<<<<<<<<<<< */
-@import '3-modules/search';
-/* >>>>>>>>>>>>>> :: 3.3-Pagination <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.2-Pagination <<<<<<<<<<<<<<< */
 @import '3-modules/pagination';
-/* >>>>>>>>>>>>>> :: 3.4-Footer <<<<<<<<<<<<<<< */
-@import '3-modules/footer';
-/* >>>>>>>>>>>>>> :: 3.5-Gallery <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.3-Buttons <<<<<<<<<<<<<<< */
+@import '3-modules/buttons';
+/* >>>>>>>>>>>>>> :: 3.4-Gallery <<<<<<<<<<<<<<< */
 @import '3-modules/gallery';
-/* >>>>>>>>>>>>>> :: 3.6-Hero <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.5-Hero <<<<<<<<<<<<<<< */
 @import '3-modules/hero';
-/* >>>>>>>>>>>>>> :: 3.7-Article <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.6-Article <<<<<<<<<<<<<<< */
 @import '3-modules/article';
-/* >>>>>>>>>>>>>> :: 3.8-Contact <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.7-Contact <<<<<<<<<<<<<<< */
 @import '3-modules/contact';
-/* >>>>>>>>>>>>>> :: 3.9-Sections <<<<<<<<<<<<<<< */
+/* >>>>>>>>>>>>>> :: 3.8-Sections <<<<<<<<<<<<<<< */
 @import '3-modules/sections';
-/* >>>>>>>>>>>>>> :: 3.10-Section Tags <<<<<<<<<<<<<<< */
-@import '3-modules/section-tags';
-/* >>>>>>>>>>>>>> :: 3.11-Subscribe <<<<<<<<<<<<<<< */
-@import '3-modules/subscribe';
+/* >>>>>>>>>>>>>> :: 3.9-Projects <<<<<<<<<<<<<<< */
+@import '3-modules/projects';
+/* >>>>>>>>>>>>>> :: 3.10-Testimonials <<<<<<<<<<<<<<< */
+@import '3-modules/testimonials';
+/* >>>>>>>>>>>>>> :: 3.11-Footer <<<<<<<<<<<<<<< */
+@import '3-modules/footer';
 
 
 /* =======================
@@ -100,7 +102,7 @@
 ======================= */
 /* >>>>>>>>>>>>>> :: 4.1-Post <<<<<<<<<<<<<<< */
 @import '4-layouts/post';
-/* >>>>>>>>>>>>>> :: 4.2-Authors <<<<<<<<<<<<<<< */
-@import '4-layouts/authors';
+/* >>>>>>>>>>>>>> :: 4.2-Project <<<<<<<<<<<<<<< */
+@import '4-layouts/project';
 /* >>>>>>>>>>>>>> :: 4.3-Tags Page <<<<<<<<<<<<<<< */
 @import '4-layouts/tags-page';

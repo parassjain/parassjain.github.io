@@ -88,28 +88,6 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 
 @each $key, $val in $mq {
 
-    // WIDE
-  @media(max-width: $wide) {
-
-    @for $i from 0 through $columns {
-      .col-w-#{$i} {
-        width: percentage( $i / $columns );
-      }
-    }
-
-    @for $i from 0 through $columns {
-      .push-w-#{$i} {
-        margin-left: percentage( $i / $columns );
-      }
-    }
-
-    @for $i from 0 through $columns {
-      .pull-w-#{$i} {
-        margin-right: percentage( $i / $columns );
-      }
-    }
-  }
-
   // DESKTOP
   @media(max-width: $desktop) {
 
