@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Hilton
+title: Paras Jain website
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hilton is a super simple portfolio theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Paras Jain
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/IMG_8719.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -48,8 +48,8 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Paras. This is my diary for my travel & adventures.
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  hero__image: '/images/01.jpg'
+  hero__description: So, If you want to know more about me, my work, and my life, you're in the right place.
+  hero__image: '/images/IMG_20230812_101844~2.jpg'
 
 
 #-------------------------------
@@ -63,8 +63,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Latest projects
+  projects__description: I post my projects here.
 
 
 #-------------------------------
@@ -107,8 +107,8 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Recent Posts
-  blog__description:
+  blog__title: Recent Adventures
+  blog__description: I post my experiences and adventures here. I hope you enjoy reading them as much as I enjoy writing them.
 
 
 #-------------------------------

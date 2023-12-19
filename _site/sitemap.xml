@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2023-12-19T17:25:03+05:30</lastmod>
+<lastmod>2023-12-19T18:49:12+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
-<lastmod>2023-12-19T17:25:03+05:30</lastmod>
+<lastmod>2023-12-19T18:49:12+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/elements/</loc>
-<lastmod>2023-12-19T17:25:03+05:30</lastmod>
+<lastmod>2023-12-19T18:49:12+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2023-12-19T17:25:03+05:30</lastmod>
+<lastmod>2023-12-19T18:49:12+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/the-way-to-get-started-is-to-quit-talking-and-begin-doing</loc>
@@ -53,6 +53,10 @@
 <lastmod>2020-11-14T17:31:35+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/kumar-parvata-trek</loc>
+<lastmod>2020-11-14T17:31:35+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/project/the-season-to-be-jolly</loc>
 <lastmod>2022-01-02T10:31:35+05:30</lastmod>
 </url>
@@ -87,6 +91,10 @@
 <url>
 <loc>http://localhost:4000/project/script-using-pencil</loc>
 <lastmod>2022-01-10T10:31:35+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/kumar-parvata-trek</loc>
+<lastmod>2023-12-17T06:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/</loc>

@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="container">
-
   <div class="page-head">
     <h1 class="page-title">{{ page.title }}</h1>
     {% if page.subtitle %}
-      <p class="project-subtitle">{{ page.subtitle }}</p>
+    <p class="project-subtitle">{{ page.subtitle }}</p>
     {% endif %}
   </div>
 
@@ -15,15 +14,13 @@ layout: default
   <div class="row">
     <div class="col col-12">
       <div class="page-image animate">
-        <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+        <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}" />
       </div>
     </div>
   </div>
   {% endif %}
 
-  <div class="project-content animate">
-    {{ content }}
-  </div>
+  <div class="project-content animate">{{ content }}</div>
 
   {% if page.previous.url %}
   <div class="project__nav animate">
@@ -34,9 +31,8 @@ layout: default
       </div>
     </a>
     <a class="project__nav-image" href="{{page.previous.url}}">
-      <img class="lazy" data-src="{{page.previous.image}}" alt="{{page.previous.title}}">
+      <img class="lazy" data-src="{{page.previous.image}}" alt="{{page.previous.title}}" />
     </a>
   </div>
   {% endif %}
-
 </div>
