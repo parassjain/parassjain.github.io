@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Kumar Parvata Trek
-description: A 2 day 30km trek considered to be one of the toughest in Karnataka. The trek starts from Kukke Subramanya and ends at Somwarpet.
+description: A 2-day, 30km trek 🏞️ toughest in Karnataka! 🥾 The adventure kicks off from Kukke Subramanya to a scenic peak of kumar parvata. 🌄  A thrilling journey filled with challenges and breathtaking views! 🌳 TrekkingAdventure 🚶‍♂️🚶‍♀️
+
 date:   2023-12-16 06:00:00 +0530
 image:  '/images/DJI_20231217072558_0048_D-gif.gif'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

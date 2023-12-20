@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Surfing Chennai
-description: Riding the waves in kovalam beach on a rainy day
+description: Experienced the thrill of riding rain-kissed waves at Kovalam Beach! A captivating adventure as we surf through the beauty of a rainy day seaside escape. 🌊☔🏄‍♂️ Don't miss out! 🌴
 date:   2023-11-27 06:00:00 +0530
 image:  '/images/2023/IMG_8527.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

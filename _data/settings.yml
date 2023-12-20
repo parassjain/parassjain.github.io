@@ -51,7 +51,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Paras. This is my diary for my travel & adventures.
-  hero__description: So, If you want to know more about me, my work, and my life, you're in the right place.
+  hero__description: So, If you'd like to see world through my eyes, you're in the right place. It includes my travel stories, my experiences, my adventures, my learnings, my thoughts, my ideas, my opinions, my feelings, my emotions, my memories, my life, and my work.
   hero__image: '/images/IMG_20230812_101844~2.jpg'
 
 
@@ -151,7 +151,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: jainparas0313@gmail.com # Add your form_id
+  email: xgegwygj # Add your form_id
   description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
