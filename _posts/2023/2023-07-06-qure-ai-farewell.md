@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QuRE AI - Farewell
+title: Qure AI - Farewell
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date: 2023-07-06 18:00:00 +0530
 image: "/images/2023/IMG-20230706-WA0019.jpg"
