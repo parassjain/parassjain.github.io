@@ -5,7 +5,7 @@ description: Bring to the table win-win survival strategies to ensure proactive 
 date: 2023-05-02 10:00:00 +0530
 image: "/images/02.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, UK]
+tags: [2023, uk]
 people: []
 location: Mussoorie [https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---
