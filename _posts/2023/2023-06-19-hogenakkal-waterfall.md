@@ -3,7 +3,7 @@ layout: post
 title: Hogennakal Waterfall
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date: 2023-06-19 07:00:00 +0530
-image: "/images/02.jpg"
+image: "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/dharmapuri-1654194392_6e3e3cdfdd3337059dd5.webp"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags: [2023, bangalore]
 people: [sudhanshu, ujjwal, anmol]
