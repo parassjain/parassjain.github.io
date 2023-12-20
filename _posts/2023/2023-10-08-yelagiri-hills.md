@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yelagiri Hills
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Graceful curves, lush greenery 🌿, and cool mountain air 🏞️ whispered tales of a serene journey etched in the heart of Southern India. Much like a dream woven into reality. ✨
 date: 2023-10-08 09:00:00 +0530
 image: "/images/2023/IMG_7978.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

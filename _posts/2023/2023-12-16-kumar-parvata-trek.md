@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kumar Parvata Trek
-description: A 2-day, 30km trek 🏞️ toughest in Karnataka! 🥾 The adventure kicks off from Kukke Subramanya to a scenic peak of kumar parvata. 🌄  A thrilling journey filled with challenges and breathtaking views! 🌳 TrekkingAdventure 🚶‍♂️🚶‍♀️
+description: A 30km trek 5,617 feet above sea level 🏞️ toughest in Karnataka! 🥾 A thrilling journey filled with challenges in dense forest, steep inclines and breathtaking views! 🌳 ture adventure 🚶‍♂️🚶‍♀️
 
 date: 2023-12-16 06:00:00 +0530
 image: "/images/DJI_20231217072558_0048_D-gif.gif"

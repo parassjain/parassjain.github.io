@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Quarry Gudi Sadahalli
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Abandoned mine near Bangalore. ⛏️ Now a spot for exploration. 🕵️‍♂️ Place got filled with mesmerizing green water 💧 in middle. 🏞️ The white stone rocks and the green water make it a serene spot. 🌟 🌿
+
 date: 2023-09-30 06:00:00 +0530
 image: "/images/2023/IMG20230930060430.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

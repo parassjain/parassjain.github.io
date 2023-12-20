@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Nelligudde Kere
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Arrived just after sunset for a planned evening ride. 🌅 Despite missing the sunset, the tranquil setting by the paved lakeside path offered a peaceful ride with 🏍️ a beautiful view. 🏞️
+
 date: 2023-10-22 18:00:00 +0530
 image: "/images/2023/IMG20231022181835.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

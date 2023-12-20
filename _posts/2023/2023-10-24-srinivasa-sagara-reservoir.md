@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Srinivasa Sagara Reservoir
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: A dam turned out to be a hidden gem. 🌟 Surrounded by beautiful landscape and crystal clear water. 🏞️ It was not crowded and is a great place to spend a few hours before the sun hits the top. 🌞
 date: 2023-10-24 10:00:00 +0530
 image: "/images/2023/20231024_101725.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
