@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Nelligudde Kere
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2020-11-14 15:01:35 +0300
-image:  '/images/02.jpg'
+description: Early morning ride to a beautiful lake near bangalore.
+date:   2023-11-04 05:01:35 +0530
+image:  '/images/2023/20231104063116_IMG_5988.JPG'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [workflow, notes, study]
+tags:   [2023, bangalore, Lake, Pawan]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
