@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shravanabelagola
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Thrilling bike ride to Shravanbelagola with my friend 🏍️. The smooth road heightened the fun. Amidst the serenity, the spiritual journey touched my soul. 🙏 #MemorableExperience
 date: 2023-08-05 07:00:00 +0530
 image: "/images/2023/IMG_7713.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mandargiri Hills
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: A serene escape on my solo bike ride. 🚴‍♂️ The ancient Jain temples atop the hill is a peaceful retreat, while the nearby lake, shimmering in tranquility, added to the scenic beauty. 🏞️ The blend of spirituality & nature created a perfect haven for contemplation and relaxation. 🙏✨
+
 date: 2023-09-23 07:00:00 +0530
 image: "/images/2023/IMG20230923083124.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

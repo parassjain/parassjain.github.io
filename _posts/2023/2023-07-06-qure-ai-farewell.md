@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Qure AI - Farewell
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Grateful for an incredible journey at Qure.ai! 🚀 Learned, laughed, and contributed alongside amazing colleagues. The farewell was a blast! 🎉 Excited for the next chapter, carrying cherished memories and friendships. 🌟 #NewBeginnings
+
 date: 2023-07-06 18:00:00 +0530
 image: "/images/2023/IMG-20230706-WA0019.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

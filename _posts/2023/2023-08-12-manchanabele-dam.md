@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machanabele Dam
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Had an amazing bike ride with office friends to the dam 🚴‍♂️ Scenic roads, laughter-filled moments, and breathtaking views. Grateful for the adventure and camaraderie! 🌄😊 #OfficeFun #BikeRideJoy
 date: 2023-08-12 07:00:00 +0530
 image: "/images/2023/20230812_105115.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
