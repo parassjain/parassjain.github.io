@@ -50,3 +50,7 @@ Objectively innovate empowered manufactured products whereas parallel platforms.
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+
+https://lh3.googleusercontent.com/drive-viewer/AEYmBYSk64gwLwLAzU0REIRM0bEkcw0yZLghlWNHPetWTAZnlQUzof-fHMkqj9sPUpCXVDaPXKx-TIvcDET4aFVHDgrmDSKU=s1600
+
+https://drive.google.com/file/d/11bAWGeCwgC6uxL5aoO1FijpQPKwic7Wc/view?usp=sharing
