@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  BMW breakfast ride 
+title: BMW breakfast ride
 description: Riding with BMW motorrad club to a breakfast ride to hotel dhruvtara
-date:   2023-10-29 06:00:00 +0530
-image:  '/images/2023/IMG_7013.jpg'
+date: 2023-10-29 06:00:00 +0530
+image: "/images/2023/IMG_7013.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [workflow, notes, study]
+tags: [2023, bangalore, bmw]
+people: []
+location: Hotel Dhruvtara[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
@@ -24,7 +26,7 @@ Podcasting operational change management inside of workflows to establish a fram
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 ![Woman]({{site.baseurl}}/images/02-2.jpg#wide)
-*Photo by [Allef Vinicius](https://unsplash.com/photos/cFuEWL6o2eY) on [Unsplash](https://unsplash.com/)*
+_Photo by [Allef Vinicius](https://unsplash.com/photos/cFuEWL6o2eY) on [Unsplash](https://unsplash.com/)_
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
 

@@ -5,8 +5,8 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Dec 2023 12:59:57 +0530</pubDate>
-        <lastBuildDate>Wed, 20 Dec 2023 12:59:57 +0530</lastBuildDate>
+        <pubDate>Wed, 20 Dec 2023 16:00:35 +0530</pubDate>
+        <lastBuildDate>Wed, 20 Dec 2023 16:00:35 +0530</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -122,8 +122,6 @@
                 
                 <category>surfing</category>
                 
-                <category>om</category>
-                
                 
             </item>
         
@@ -180,9 +178,9 @@
                 
                 <category>bangalore</category>
                 
-                <category>Lake</category>
+                <category>bmw</category>
                 
-                <category>Pawan</category>
+                <category>lake</category>
                 
                 
             </item>
@@ -236,11 +234,11 @@
                 <link>http://localhost:4000/blog/bmw-breakfast-ride</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/bmw-breakfast-ride</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
@@ -294,11 +292,11 @@
                 <link>http://localhost:4000/blog/nelligudde-kere</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/nelligudde-kere</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
@@ -352,11 +350,13 @@
                 <link>http://localhost:4000/blog/srinivasa-sagara-reservoir</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/srinivasa-sagara-reservoir</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>banagalore</category>
                 
-                <category>study</category>
+                <category>lake</category>
+                
+                <category>bmw</category>
                 
                 
             </item>
@@ -410,11 +410,11 @@
                 <link>http://localhost:4000/blog/yelagiri-hills</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/yelagiri-hills</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
@@ -468,11 +468,11 @@
                 <link>http://localhost:4000/blog/makalidurga-trek</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/makalidurga-trek</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
@@ -526,11 +526,11 @@
                 <link>http://localhost:4000/blog/makalidurga-trek</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/makalidurga-trek</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
@@ -584,11 +584,11 @@
                 <link>http://localhost:4000/blog/quarry-gudi-sadahalli</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/quarry-gudi-sadahalli</guid>
                 
-                <category>workflow</category>
+                <category>2023</category>
                 
-                <category>notes</category>
+                <category>bangalore</category>
                 
-                <category>study</category>
+                <category>bmw</category>
                 
                 
             </item>
