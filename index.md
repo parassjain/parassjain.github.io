@@ -1,8 +1,0 @@
-- 2023
-  - jan phuket, phi phi, krabi, bankok
-  - feb football with qure,
-  - march mangi tungi, shifted with aayush, rohit, dibbagiri hills
-  - apr rental bike, helmet, chennai surfing
-  - may haridwar, rishikesh, badrinath, nainital, mussuri, water park, dongargarh
-  - june bike, hogenakkal waterfall, adiyogi, mavathur
-  - jul mavathur, chuchi waterfall, farewell, swimming

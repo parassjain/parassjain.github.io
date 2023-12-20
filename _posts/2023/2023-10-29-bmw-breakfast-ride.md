@@ -2,7 +2,7 @@
 layout: post
 title:  BMW breakfast ride 
 description: Riding with BMW motorrad club to a breakfast ride to hotel dhruvtara
-date:   2020-10-29 06:00:00 +0530
+date:   2023-10-29 06:00:00 +0530
 image:  '/images/2023/IMG_7013.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [workflow, notes, study]
