@@ -10,9 +10,9 @@ description: Hilton blog features productivity, tips, inspiration and strategies
       <div class="page-head">
         <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.blog__settings.blog__title }}{% endif %}</h1>
         {% if page.description %}
-          <p class="page-description">{{ page.description }}</p>
+        <p class="page-description">{{ page.description }}</p>
         {% else site.data.settings.blog__settings.blog__description %}
-          <p class="page-description">{{ site.data.settings.blog__settings.blog__description }}</p>
+        <p class="page-description">{{ site.data.settings.blog__settings.blog__description }}</p>
         {% endif %}
       </div>
     </div>
@@ -20,13 +20,7 @@ description: Hilton blog features productivity, tips, inspiration and strategies
 </div>
 
 <div class="container animate">
-  <div class="row">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts offset:0 %}
-        {% include article.html %}
-      {% endfor %}
-    {% endif %}
-  </div>
+  <div class="row">{% if site.posts.size > 0 %} {% for post in paginator.posts offset:0 %} {% include article.html %} {% endfor %} {% endif %}</div>
 </div>
 
 {% include pagination.html %}

@@ -2,31 +2,48 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/IMG_20220712_113357.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I consider myself an avid adventurer, constantly venturing into diverse landscapes to capture the breathtaking beauty of nature. Whether on two wheels as a passionate biker, riding the waves as a surfer, gliding through water as a swimmer, or engaging in intense badminton matches, I thrive on the thrill of exploration.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+By profession, I am a software engineer, but my true calling lies in being a dedicated traveler. The allure of discovering new places has taken me across various regions in India, where I've immersed myself in numerous treks and adventurous activities. Solo travel is a particular joy for me, as it allows me to connect with people and share the awe-inspiring moments I capture in nature.
+
+Graduating from IIT Bombay in 2021 with a specialization in Chemical Engineering, I discovered my passion for AI and computer science during my college years. Recognizing the excitement and intrigue they held, I delved into learning about AI, eventually leading me to embark on a journey into the realm of artificial intelligence.
+
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/IMG20220712162456.jpg" loading="lazy">
+    <img src="/images/IMG20230125113322.jpg" loading="lazy">
+    <img src="/images/20231024_092439.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+My travel journey truly kicked off after college, coinciding with the beginning of my career, which conveniently allowed me to work from home. Over the past two years, I've traversed numerous states in India, creating a mosaic of experiences and memories. Most of my journeys have been shared adventures with different friends, while some have been solo expeditions, each offering a unique perspective on the beauty and diversity our country has to offer.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/IMG_20210904_135536.jpg" loading="lazy">
+    <img src="/images/IMG_20210124_082457.jpg" loading="lazy">
+    <img src="/images/IMG_20220602_094017.jpg" loading="lazy">
+  </div>
+</div>
 
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+Lately, I've embarked on bike trips, primarily focusing on destinations within a 300-kilometer radius of Bangalore, making them perfect for day trips. This newfound exploration on two wheels has proven to be the ultimate way to discover the hidden gems and scenic wonders in the vicinity of Bangalore. The freedom of the open road allows me to soak in the beauty of the surroundings and experience the charm of places that are easily accessible for a quick getaway. It's a delightful journey of discovery right in the backyard of Bangalore.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/IMG_20230620_000554_731.webp" loading="lazy">
+    <img src="/images/IMG_3686.jpeg" loading="lazy">
+  </div>
+</div>
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+
+> The longer I live, the more I realize that the important thing is not what happens to us, but how we respond to what happens to us.
+
+
+![Sea]({{site.baseurl}}/images/20231024_091516.jpg)
+
+Exploring the culinary realm is one of my passions, and my experimentation is primarily centered around Indian dishes. As a proud vegetarian, I find joy in discovering new flavors and innovative ways to elevate traditional recipes. Whether it's infusing regional spices, mastering cooking techniques, or creating fusion delights.
