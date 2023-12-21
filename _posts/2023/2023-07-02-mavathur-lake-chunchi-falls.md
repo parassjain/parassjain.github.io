@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Chunchi Falls Mavathur Lake
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: 🚗 Embarked on a scenic road trip with friends to a mesmerizing waterfall. 🌊 A delightful small trek followed by a refreshing bath in its crystal-clear waters, Unforgettable moments, laughter echoing amidst nature's beauty. 🌿😊
+
 date: 2023-07-02 08:00:00 +0530
 image: "/images/2023/IMG_20230702_112308.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
