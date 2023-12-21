@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Dibbagiri Hills
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Went to Dibba Giri hills 🥾near Bangalore with work buddies. Saw a beautiful sunrise 🌄 and felt a cool breeze. The view was amazing! Climbing was fun, and took many selfies. Had a great morning there! 🏞️ #OfficeAdventure
+
 date: 2023-03-26 07:00:00 +0530
 image: "/images/2023/PXL_20230326_014520238.MP.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

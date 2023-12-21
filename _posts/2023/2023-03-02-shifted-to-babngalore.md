@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shifted to Bangalore
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Just landed in Bangalore! 🛬 Living it up with friends – cooking, working together at the same company, and having a blast! 🍲💼🎉 Bangalore vibes are treating us well! Though the place was off for us 🌆 #NewBeginnings
 date: 2023-03-02 12:00:00 +0530
 image: "/images/2023/IMG-20230324-WA0014.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mangi Tungi
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Embarked on a sacred journey to Mangi Tungi with family, conquering the steep ascent. 🏔️ The towering Bahubali statue left us in awe, a testament to faith and nature's majesty. 🙏 An unforgettable blend of spirituality and breathtaking views.
 date: 2023-03-12 07:00:00 +0530
 image: "/images/2023/IMG20230312072811.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mussoorie
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: Explored Mussoorie's misty hills 🏔️, embraced Mall Road's charm, reveled in Kempty Falls' cascading beauty, and marveled at Gun Hill's panoramic views. 🛍️🌊 Soaked in the serenity of the Queen of Hills! 🏞️ 🍃 #MussoorieMagic
 date: 2023-05-02 10:00:00 +0530
 image: "/images/2023/IMG20230502164720.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

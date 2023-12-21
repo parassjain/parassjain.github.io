@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dongargarg
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: went to dongargarg with familty for a spiritual tour.
 date: 2023-05-31 07:00:00 +0530
 image: "/images/2023/IMG20230531063106.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M

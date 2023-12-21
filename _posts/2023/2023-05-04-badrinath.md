@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Badrinath
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
+description: 🛕 Badrinath's snowy ❄️ embrace enchanted us, the temple gleaming in icy splendor. Each step through the snow-laden path resonated with familial warmth. Blessed by the divine amidst snowflakes, a thrilling family adventure! ❄️⛩️👨‍👩‍👧‍👦
 date: 2023-05-04 07:00:00 +0530
 image: "/images/2023/IMG20230504045937.jpeg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
