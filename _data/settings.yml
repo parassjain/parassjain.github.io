@@ -72,40 +72,69 @@ projects__settings:
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: What clients say
-testimonial__description:
+testimonial__title: What i do for fun
+testimonial__description: well i do a lot of things for fun, but here are some of them
 
 testimonial__items:
-  - name: "Aspen Carder"
-    image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
+  - name: "Gymming 💪🏻"
+    image: "/images/testimonial/IMG20231118074300.jpg"
+    designation: Beginner here
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Started gymming july 2023 & doing it ever since. loved it so far and i am not planning to stop anytime soon."
 
-  - name: "Lydia Siphron"
-    image: "/images/client-2.jpg"
-    designation: "Designer"
+  - name: "Biking 🏍️"
+    image: "/images/testimonial/20231104065712_IMG_6096.JPG"
+    designation: BMW 310 RR rider
+    link: "https://twitter.com/"
+    content : "ever since i bought my bike, i have been riding it a lot. I love riding it and i have been to many places on my bike."
+
+  - name: "Swimming 🏊🏻"
+    image: "/images/testimonial/IMG20231010201243.jpg"
+    designation: 500m in 25 mins
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "A rust swimmer, but now i can swim pretty well, recently i started learning butterfly stroke and i am loving it."
 
-  - name: "Craig Vaccaro"
-    image: "/images/client-3.jpg"
-    designation: "Web developer"
+  - name: "Boards Games 🎲"
+    image: "/images/testimonial/IMG20231203211641.jpg"
+    designation: Catan all time fav
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Catan, its just the best board game ever. I played it for the first time few weeks back, & now cant say no to it."
 
-  - name: "Anika Calzoni"
-    image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
+  - name: "Badminton 🏸"
+    image: "/images/testimonial/IMG-20230715-WA0008.jpg"
+    designation: wanna loose, play with me
+    link: "https://twitter.com/"
+    content : "Playing since 5th grade. didnt played much during jee, picked it up in college. Now it's just on & off with friends."
+
+  - name: "Hiking 🥾"
+    image: "/images/testimonial/IMG20231216174434.jpg"
+    designation: fucking tortoise here, but i always finish
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "First hike was Hampta Pass 12k feet. I have done few more treks recently and planning to do more in western ghats."
+  
+  - name: "Table Tennis 🏓"
+    image: "/images/testimonial/20180308_163333.jpg"
+    designation: yeah, need warmup
+    link: "https://facebook.com/"
+    content : "Since i was playing badminton, i picked up table tennis pretty quickly. Its a good sport to play in office."
 
-  - name: "Marcus Botosh"
-    image: "/images/client-5.jpg"
-    designation: "Full Stack Designer"
+  - name: "Snooker 🎱"
+    image: "/images/testimonial/PXL_20211022_174724419.MP.jpg"
+    designation: tukke me chali jati hai
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "I know i am not good at it, but it just gives you different kind of satisfaction when you pot a ball."
 
+  - name: "Cooking 🥪"
+    image: "/images/testimonial/IMG20230219143622.jpg"
+    designation: paneer is so versatile
+    link: "https://twitter.com/"
+    content : "Corona made me start cooking, later i shifted to mumbai, there i cooked a few time, i can cook a lot of dishes now."
+
+  - name: "Coding 👨🏻‍💻"
+    image: "/images/testimonial/IMG-20220418-WA0001.jpg"
+    designation: brain breaker
+    link: "https://twitter.com/"
+    content : "Only thing i love which breaks my brain. I love implementing new ideas, sometimes i finish, sometime eehh."
 
 #-------------------------------
 # Blog Section
