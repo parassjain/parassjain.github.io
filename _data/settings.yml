@@ -147,14 +147,14 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+    - alt: 'Techfest'
+      url: '/images/gallery/86274048_2550173791761374_382770887033618432_o.jpg'
+    - alt: 'Wingies'
+      url: '/images/gallery/IMG-20191020-WA0036.jpg'
+    - alt: 'Badminton'
+      url: '/images/gallery/IMG_20180430_171836075_HDR.jpg'
+    - alt: 'Qure.ai'
+      url: '/images/gallery/IMG20230707162653.jpg'
 
 
 #-------------------------------
