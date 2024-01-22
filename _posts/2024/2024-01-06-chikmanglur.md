@@ -10,8 +10,6 @@ people: [himanshu, jaideep, rahul]
 location: Kumar Parvata Trek[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---
 
-Main events points
-
 After months of meticulous planning and a few inevitable delays, the day had finally arrived for our much-anticipated road trip. The journey, which commenced on the 6th of January 2024, began with a slight hiccup – our early morning start at 5:30 am was pushed back to 6:30 am. Nevertheless, the excitement was palpable as it was me, Jaideep, Himanshu, and his friend embarking on this adventure together.
 
 Our route? Bangalore to an undisclosed destination via Tumkur Road. The roads welcomed us with their smooth surface, allowing us to maintain a comfortable speed throughout the journey. Our strategy was to make brief stops after each toll booth, ensuring we could stretch our legs and enjoy the ride even more.
