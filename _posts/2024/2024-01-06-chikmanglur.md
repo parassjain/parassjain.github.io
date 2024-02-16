@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chikmanglur
-description: Bike ride to chikmanglur with friends over the weekend
+description: Revved our engines for a thrilling bike ride 🏍️ to Chikmagalur! Adrenaline-pumping journey through mesmerizing curves to majestic Mullayanagiri Peak. Eyes soaked in mystical hilltop views.  🏞️
 date: 2024-01-06 06:00:00 +0530
 image: "/images/2024/dji_mimo_20240106_164720_0_1704551821187_photo.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
