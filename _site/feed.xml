@@ -5,8 +5,8 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Apr 2024 22:05:03 +0530</pubDate>
-        <lastBuildDate>Wed, 10 Apr 2024 22:05:03 +0530</lastBuildDate>
+        <pubDate>Wed, 10 Apr 2024 22:06:53 +0530</pubDate>
+        <lastBuildDate>Wed, 10 Apr 2024 22:06:53 +0530</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -140,7 +140,15 @@
         
             <item>
                 <title>Munnar</title>
-                <description>&lt;p&gt;-&lt;/p&gt;
+                <description>&lt;ul&gt;
+  &lt;li&gt;150km road trip from kochi to munnar on 2 scooters.&lt;/li&gt;
+  &lt;li&gt;The journey was filled with scenic views, tea plantations, and a buttery smooth ride.&lt;/li&gt;
+  &lt;li&gt;The weather was perfect, and the roads were almost empty.&lt;/li&gt;
+  &lt;li&gt;We stopped at a few places to take pictures and enjoy the view.&lt;/li&gt;
+  &lt;li&gt;munnar tea plantation was a treat to the eyes, they looked like a green carpet, exactly like the ones we see in movies.&lt;/li&gt;
+  &lt;li&gt;We reached munnar by 2 pm and had some local food.&lt;/li&gt;
+  &lt;li&gt;we started our journey back to kochi by 4 pm.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                 <pubDate>Sat, 27 Jan 2024 14:00:00 +0530</pubDate>
                 <link>http://localhost:4000/blog/munnar</link>
