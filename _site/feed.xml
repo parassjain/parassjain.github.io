@@ -5,8 +5,8 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Apr 2024 21:14:45 +0530</pubDate>
-        <lastBuildDate>Wed, 10 Apr 2024 21:14:45 +0530</lastBuildDate>
+        <pubDate>Wed, 10 Apr 2024 21:37:23 +0530</pubDate>
+        <lastBuildDate>Wed, 10 Apr 2024 21:37:23 +0530</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -167,18 +167,39 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
+                <category>Kerala</category>
                 
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>Munnar</category>
                 
                 
             </item>
         
             <item>
                 <title>Kochi</title>
-                <description>
+                <description>&lt;ul&gt;
+  &lt;li&gt;booked bus for the long weekend to the kochi&lt;/li&gt;
+  &lt;li&gt;booked the wrong bus, booked for wrong 1am bus&lt;/li&gt;
+  &lt;li&gt;boarded bus on 26th jan 1am&lt;/li&gt;
+  &lt;li&gt;reached kochi on 27th jan 6am&lt;/li&gt;
+  &lt;li&gt;had breakfast at ambiswamy’s veg restaurant, okay okay food, analogous to udupi&lt;/li&gt;
+  &lt;li&gt;super hot weather, 30 degrees&lt;/li&gt;
+  &lt;li&gt;we had some time so we went to lulu mall, biggest mall in kochi&lt;/li&gt;
+  &lt;li&gt;then took the metro to fort kochi, then took an auto to reach our hostel&lt;/li&gt;
+  &lt;li&gt;arrived at the goSTOPS Kochi, our stay for the next 2 days&lt;/li&gt;
+  &lt;li&gt;freshened up and left for lunch at the nearby restaurant&lt;/li&gt;
+  &lt;li&gt;after 1 km or so we found couple of good pure veg restaurants, had our dinner at Anantha Bhavan. the food was 10/10 and just for 550 for 3 hungry folks.&lt;/li&gt;
+  &lt;li&gt;we observed that the fort kochi was full of foreigners, we were the only indians there.&lt;/li&gt;
+  &lt;li&gt;we then went to the fort kochi beach, the sunset was beautiful, the sky was in hues of gold.&lt;/li&gt;
+  &lt;li&gt;the we thought of taking a wwalk in the fort kochi itself.&lt;/li&gt;
+  &lt;li&gt;we started roaming around the streets, clicked several pics. Ignoring all the people judging us for clicking weird pics, we had a good laugh throughout the day.&lt;/li&gt;
+  &lt;li&gt;we reached the coast line by 4pm, what an amazinf view. attaching pics below.&lt;/li&gt;
+  &lt;li&gt;had a short video call with my family.&lt;/li&gt;
+  &lt;li&gt;then we spent some time at the beach, the beach was clean and the water was clear.&lt;/li&gt;
+  &lt;li&gt;we grabbed some ice-cream and started going back to our hostel.&lt;/li&gt;
+  &lt;li&gt;on the way back we saw an differnt building, it was like made by portuguese, we clicked some pics there. it turned out to be a restaurant. we had coffee there, clicked several pics.&lt;/li&gt;
+  &lt;li&gt;walking past the streets we saw we were the only indians there, the place was full of foreigners. entire fort kochi was full of foreigners.&lt;/li&gt;
+  &lt;li&gt;planning our next day, we decided to rent some scooters and explore the city.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                 <pubDate>Sat, 27 Jan 2024 06:00:00 +0530</pubDate>
                 <link>http://localhost:4000/blog/kochi</link>
@@ -186,11 +207,7 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
-                
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>kerala</category>
                 
                 
             </item>

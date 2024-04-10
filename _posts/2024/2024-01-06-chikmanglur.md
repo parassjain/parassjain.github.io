@@ -7,7 +7,7 @@ image: "/images/2024/dji_mimo_20240106_164720_0_1704551821187_photo.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags: [2024, bangalore, bmw, trek]
 people: [himanshu, jaideep, rahul]
-location: Kumar Parvata Trek[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
+location: Chikmanglur [https://maps.app.goo.gl/ZUqzEv1NdpRzPco77]
 ---
 
 After months of meticulous planning and a few inevitable delays, the day had finally arrived for our much-anticipated road trip. The journey, which commenced on the 6th of January 2024, began with a slight hiccup – our early morning start at 5:30 am was pushed back to 6:30 am. Nevertheless, the excitement was palpable as it was me, Jaideep, Himanshu, and his friend embarking on this adventure together.
