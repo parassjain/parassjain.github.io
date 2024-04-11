@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Kathmandu, Nepal
-description: Revved our engines for a thrilling bike ride 🏍️ to Chikmagalur! Adrenaline-pumping journey through mesmerizing curves to majestic Mullayanagiri Peak. Eyes soaked in mystical hilltop views.  🏞️
+description: In the heart of the Himalayas 🗻, centuries-old temples 🛕, each telling stories of devotion and spirituality. The city with best spicy momos 🥟 and cute smiles.
 date: 2024-03-06 06:00:00 +0530
 image: "/images/2024/IMG_9274.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2024, bangalore, bmw, trek]
-people: [himanshu, jaideep, rahul]
-location: Kumar Parvata Trek[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
+tags: [2024, nepal, kathmandu]
+people: [om, shantanu]
+location: Kathmandu [https://maps.app.goo.gl/FW6x3G4L8PER8k4c7]
 ---

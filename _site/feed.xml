@@ -5,8 +5,8 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Apr 2024 22:11:19 +0530</pubDate>
-        <lastBuildDate>Wed, 10 Apr 2024 22:11:19 +0530</lastBuildDate>
+        <pubDate>Thu, 11 Apr 2024 08:07:20 +0530</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2024 08:07:20 +0530</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
@@ -53,11 +53,9 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
+                <category>nepal</category>
                 
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>pokhra</category>
                 
                 
             </item>
@@ -72,11 +70,9 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
+                <category>nepal</category>
                 
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>kathmandu</category>
                 
                 
             </item>
@@ -91,11 +87,9 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
+                <category>nepal</category>
                 
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>kathmandu</category>
                 
                 
             </item>
@@ -129,11 +123,7 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
-                
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>kerela</category>
                 
                 
             </item>
@@ -156,11 +146,9 @@
                 
                 <category>2024</category>
                 
-                <category>bangalore</category>
+                <category>kerela</category>
                 
-                <category>bmw</category>
-                
-                <category>trek</category>
+                <category>munnar</category>
                 
                 
             </item>
@@ -196,9 +184,9 @@
                 
                 <category>2024</category>
                 
-                <category>Kerala</category>
+                <category>kerala</category>
                 
-                <category>Munnar</category>
+                <category>munnar</category>
                 
                 
             </item>
