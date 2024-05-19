@@ -181,7 +181,7 @@ footer_menu__settings:
 # Contact Settings
 contact:
   email: xgegwygj # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: If you have any questions or want to get in touch, please use the below social media links or fill the form below.
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -189,7 +189,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: parassjain # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
