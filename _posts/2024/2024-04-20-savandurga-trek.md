@@ -23,7 +23,7 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
     <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="House">
     <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="House">
   </div>
-  <em>Photos of brigde and lake</em>
+  <em>Photos of savandurga hill</em>
 </div>
 - next to the parking there was a small snacks shop which offered us to keep our helmets, heavy jackes and bags for free
 - we reached the starting point where a security guard checked our tickets
@@ -42,5 +42,5 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
     <img src="/images/2024/q1/IMG_2983.jpeg" loading="lazy" alt="House">
     <img src="/images/2024/q1/IMG_0384.jpg" loading="lazy" alt="House">
   </div>
-  <em>Photos of brigde and lake</em>
+  <em>Photos of savandurga hill</em>
 </div>
