@@ -42,5 +42,5 @@ location: Mangalavanam Bird Sanctuary [https://maps.app.goo.gl/NtZmadtDkjSbPWfU8
     <img src="/images/2024/IMG_20240128_124636.jpg" loading="lazy" alt="House">
     <img src="/images/2024/IMG20240128125141.jpg" loading="lazy" alt="House">
   </div>
-  <em>Photos of watch tower, and bird santury</em>
+  <em>Photos of railway yard</em>
 </div>
