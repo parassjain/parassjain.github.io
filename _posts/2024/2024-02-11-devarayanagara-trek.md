@@ -9,3 +9,5 @@ tags: [2024, bangalore, bmw, trek]
 people: [om, mohit, shikhar, saavu, anvay, manan]
 location: Devrayanadurga [https://maps.app.goo.gl/AsuekxxYyacqgEN28]
 ---
+
+- 
