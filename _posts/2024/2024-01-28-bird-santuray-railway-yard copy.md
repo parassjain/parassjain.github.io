@@ -20,9 +20,9 @@ location: Mangalavanam Bird Sanctuary [https://maps.app.goo.gl/NtZmadtDkjSbPWfU8
 - we roamed around the sanctuary for some time, clicked some pics and went outside.
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/2022-06-15.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/IMG20230312165452.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/IMG_20240128_122447.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/2022-06-15.jpg" loading="lazy" alt="">
+    <img src="/images/2024/IMG20230312165452.jpg" loading="lazy" alt="">
+    <img src="/images/2024/IMG_20240128_122447.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of watch tower, and bird santury</em>
 </div>
@@ -38,9 +38,9 @@ location: Mangalavanam Bird Sanctuary [https://maps.app.goo.gl/NtZmadtDkjSbPWfU8
   <div class="gallery">
     <img src="/images/2024/2020-03-01.jpg" loading="lazy" alt="railway line">
     <img src="/images/2024/IMG20240128123726.jpg" loading="lazy" alt="building">
-    <img src="/images/2024/IMG_9922.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/IMG_20240128_124636.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/IMG20240128125141.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/IMG_9922.jpg" loading="lazy" alt="">
+    <img src="/images/2024/IMG_20240128_124636.jpg" loading="lazy" alt="">
+    <img src="/images/2024/IMG20240128125141.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of railway yard</em>
 </div>

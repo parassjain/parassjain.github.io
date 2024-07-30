@@ -16,9 +16,9 @@ Podcasting operational change management inside of workflows to establish a fram
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-1.jpg" loading="lazy" alt="House">
-    <img src="/images/02-1.jpg" loading="lazy" alt="House">
-    <img src="/images/02-1.jpg" loading="lazy" alt="House">
+    <img src="/images/02-1.jpg" loading="lazy" alt="">
+    <img src="/images/02-1.jpg" loading="lazy" alt="">
+    <img src="/images/02-1.jpg" loading="lazy" alt="">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/-Gj-4Ou9erI" target="_blank">Tyler Nix</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

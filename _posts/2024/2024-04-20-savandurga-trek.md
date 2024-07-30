@@ -19,9 +19,9 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 - we reached the base wher we parked our bikes.
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/IMG_0363.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_0363.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of savandurga hill</em>
 </div>
@@ -38,9 +38,9 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 - on our 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/92fffba9-d8f7-4f71-bbc9-1bf52dd808f5.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG_2983.jpeg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG_0384.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/92fffba9-d8f7-4f71-bbc9-1bf52dd808f5.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_2983.jpeg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_0384.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of savandurga hill</em>
 </div>

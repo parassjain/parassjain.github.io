@@ -19,10 +19,10 @@ location: Neriamangalam Bridge[https://maps.app.goo.gl/Q8GHzCF375nxKRMy5]
 - whle enjoying the cool breeze we forgot that we were standing on a narrow bridge.
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/IMG_9848.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG_20240127_093422.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG20240127094340.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/IMG_20240127_170642.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_9848.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240127_093422.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG20240127094340.jpg" loading="lazy" alt="">
+    <img src="/images/2024/IMG_20240127_170642.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of brigde and lake</em>
 </div>
@@ -39,9 +39,9 @@ location: Neriamangalam Bridge[https://maps.app.goo.gl/Q8GHzCF375nxKRMy5]
 - we bridge was looking magnificent from the boat house.
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/IMG_9888.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG_9895.jpg" loading="lazy" alt="House">
-    <img src="/images/2024/q1/IMG20240127170505.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_9888.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_9895.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG20240127170505.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of brigde and lake</em>
 </div>
