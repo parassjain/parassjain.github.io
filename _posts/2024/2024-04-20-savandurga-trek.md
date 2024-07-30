@@ -17,6 +17,14 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 - since this is reserved forest area so we need to book tickets online on karnataka eco tourism website, it costs 300 per person
 - we planned to start by 6 but everone got late and we started by 7
 - we reached the base wher we parked our bikes.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2024/q1/IMG_0363.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="House">
+  </div>
+  <em>Photos of brigde and lake</em>
+</div>
 - next to the parking there was a small snacks shop which offered us to keep our helmets, heavy jackes and bags for free
 - we reached the starting point where a security guard checked our tickets
 - soon a guide joined us to start the trek
@@ -28,3 +36,11 @@ location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 - as the time passed the sun started to shine brightly and it became really hot
 - the landscape was looking very beautiful from the top
 - on our 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2024/q1/92fffba9-d8f7-4f71-bbc9-1bf52dd808f5.jpg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_2983.jpeg" loading="lazy" alt="House">
+    <img src="/images/2024/q1/IMG_0384.jpg" loading="lazy" alt="House">
+  </div>
+  <em>Photos of brigde and lake</em>
+</div>
