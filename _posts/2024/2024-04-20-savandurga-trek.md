@@ -8,3 +8,23 @@ tags: [2024, bangalore, trek, bmw]
 people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
 location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 ---
+
+- we had to do something on the weekend, so we decided to go for a trek
+- sudhanshu, ujjwal, umakant, anmol, prakhar joined me on the trek
+- a perfect weekend getaway from Bangalore
+- Asia's largest monolith hill
+- we took 5 bikes to reach the base of the hill
+- since this is reserved forest area so we need to book tickets online on karnataka eco tourism website, it costs 300 per person
+- we planned to start by 6 but everone got late and we started by 7
+- we reached the base wher we parked our bikes.
+- next to the parking there was a small snacks shop which offered us to keep our helmets, heavy jackes and bags for free
+- we reached the starting point where a security guard checked our tickets
+- soon a guide joined us to start the trek
+- at the start of the trek it seemed really easy, but as we moved formwad the trail became steeper
+- we keep on taking brakes and clicked some photos
+- we had several water bottle with us so thankfull we were hydrated
+- Anmol brought several snacks which we needed badly during the hike.
+- he had a duffel bag with him which had all the snacks and water bottles
+- as the time passed the sun started to shine brightly and it became really hot
+- the landscape was looking very beautiful from the top
+- on our 
