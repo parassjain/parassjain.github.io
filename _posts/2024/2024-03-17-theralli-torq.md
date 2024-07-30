@@ -8,3 +8,6 @@ tags: [2024, bangalore, hunter]
 people: [arun]
 location: Theralli View Point [https://maps.app.goo.gl/56gz3hkbHjKaxQ3a8]
 ---
+
+- bike ride with Arun to theralli view point along with the royal enfield hunter group
+- torq on the day before that
