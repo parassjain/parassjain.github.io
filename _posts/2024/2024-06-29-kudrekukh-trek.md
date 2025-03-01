@@ -2,8 +2,8 @@
 layout: post
 title: Kudrekukh Trek
 description: Went on a car trip to Bahiubali's statue in Shravanabelagola. The statue is 57 feet tall and is carved out of a single block of granite.
-date: 2024-06-15 10:00:00 +0530
-image: "/images/2024/IMG_2964.jpeg"
+date: 2024-06-29 10:00:00 +0530
+image: "/images/2024/IMG_0447.jpg"
 tags: ["2024", bangalore, trek, bmw]
 people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
 location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
@@ -20,11 +20,11 @@ We took five bikes to reach the base of the hill. Since the area is a reserved f
 Upon reaching the base, we parked our bikes and found a small snack shop nearby. The shop owner kindly offered to keep our helmets, heavy jackets, and bags for free, which was a great relief.
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/IMG_0363.jpg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_0444.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240629_102235455.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240629_105509.jpg" loading="lazy" alt="">
   </div>
-  <em>Photos of savandurga hill</em>
+  <em>Photos of Kudremukh trail</em>
 </div>
 
 After a brief stop at the snack shop, we moved to the starting point of the trek, where a security guard checked our tickets. Soon, a guide joined us to lead the way. The trek began easily enough, but it didn't take long for the trail to become steeper and more challenging.
