@@ -3,7 +3,7 @@ layout: post
 title: Shravanabelagola 2.0
 description: Went on a car trip to Bahiubali's statue in Shravanabelagola. The statue is 57 feet tall and is carved out of a single block of granite.
 date: 2024-06-15 10:00:00 +0530
-image: "/images/2024/IMG_20240615_083514.jpg"
+image: "/images/2024/q1/Shravanabelagola.jpg"
 tags: [2024, bangalore, car]
 people: [shuchita, saloni]
 location: Savandurga [https://maps.app.goo.gl/4vuhKBEKZBimBgPb6]
