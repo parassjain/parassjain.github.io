@@ -4,45 +4,59 @@ title: Shravanabelagola 2.0
 description: Went on a car trip to Bahiubali's statue in Shravanabelagola. The statue is 57 feet tall and is carved out of a single block of granite.
 date: 2024-06-15 10:00:00 +0530
 image: "/images/2024/IMG_20240615_083514.jpg"
-tags: [a2024, bangalore, trek, bmw]
-people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+tags: [2024, bangalore, car]
+people: [shuchita, saloni]
+location: Savandurga [https://maps.app.goo.gl/4vuhKBEKZBimBgPb6]
 ---
+It had been a while since I last visited Shravanabelagola. Someone in our Gyanoday group mentioned they wanted to visit the place and were looking for company. On the same day, four of us connected over WhatsApp and decided to go on a road trip to see Bahubali’s statue.
 
-Sometimes, the best way to spend a weekend is by reconnecting with nature and challenging oneself. That's exactly what we decided to do – embark on a trek to Asia's largest monolith hill, a perfect weekend escape from the hustle and bustle of Bangalore.
-
-
-Our trekking team consisted of Sudhanshu, Ujjwal, Umakant, Anmol, Prakhar, and me. The initial plan was to start our journey at 6 AM, but as it often happens, we got a bit delayed and finally hit the road by 7 AM.
-
-The Journey Begins
-We took five bikes to reach the base of the hill. Since the area is a reserved forest, we had to book our tickets online through the Karnataka Eco Tourism website. The cost was 300 INR per person, which we found reasonable considering the experience that awaited us.
-
-Upon reaching the base, we parked our bikes and found a small snack shop nearby. The shop owner kindly offered to keep our helmets, heavy jackets, and bags for free, which was a great relief.
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/2024/q1/IMG_0363.jpg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG20240420065300.jpg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG_1063.jpg" loading="lazy" alt="">
-  </div>
-  <em>Photos of savandurga hill</em>
-</div>
-
-After a brief stop at the snack shop, we moved to the starting point of the trek, where a security guard checked our tickets. Soon, a guide joined us to lead the way. The trek began easily enough, but it didn't take long for the trail to become steeper and more challenging.
-
-We took several breaks along the way, capturing the scenic beauty with our cameras. The importance of staying hydrated during a trek cannot be overstated, and we were well-prepared with several water bottles. Anmol, in particular, was our savior with his duffel bag full of snacks and extra water.
+We booked a Zoomcar for the trip. I received the car at 4:30 AM and began picking up the group—first Shuchita, then Saloni, and finally another friend near Marathahalli. By the time we left Bangalore, it was already 6:30 AM.
 
 
-As the sun climbed higher in the sky, the heat intensified, making the trek more taxing. Despite the increasing temperature, the beautiful landscape kept us motivated. The view from the top was absolutely breathtaking, making every bit of effort worth it.
+On our way, we stopped for breakfast at Sambharam, a restaurant near the highway. We had idli, dosa, and tea. The food was delicious, and the service was quick. By 7:30 AM, we were back on the road.
 
 
-Trekking Asia's largest monolith hill was an unforgettable experience. It was a perfect mix of adventure, camaraderie, and natural beauty. If you're looking for a weekend getaway from Bangalore that offers both a physical challenge and stunning vistas, this trek is definitely worth considering. Just remember to book your tickets in advance, pack plenty of water, and bring along good friends to share the journey with.
+I drove the entire way since I was the only one comfortable driving. Though Shuchita knew how to drive, she preferred not to at that moment. We reached Shravanabelagola at 9:00 AM. I quickly parked the car, and we started climbing the hill. By 9:30 AM, we reached the temple.
+
+Visiting Bahubali’s statue is always a unique experience—no matter how many times I see it, it feels like the first time. The grandeur and serenity of the place make every problem in life seem insignificant. We spent some time there, even video-calling my parents to give them a virtual darshan. At 11:00 AM, we left the temple and explored some nearby temples as well.
 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2024/q1/92fffba9-d8f7-4f71-bbc9-1bf52dd808f5.jpg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG_2983.jpeg" loading="lazy" alt="">
-    <img src="/images/2024/q1/IMG_0384.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240615_101555.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240615_084946.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240615_105927.jpg" loading="lazy" alt="">
+  </div>
+  <em>Photos of shravanabelagola</em>
+</div>
+
+we had enough time till evening so we left to visit some lake Kikkeri Kere and waterfall nearby. 
+
+the roads and the road was amazong, lush green roads full of trees, they forming canopy over the road.
+we stopped there and clicked several photos.
+
+We reached the lake at 1:30 PM. We spent some time there. the lake was bit disappointing, so checjed on google maps a found a way which was passing thought eh middle of the lake.
+we took our car there and it was really good. a narrow path, just enough for a single car to pass.
+both sides of the road were covered with water. We put on some music and stayed there for a while, enjoying the breeze.
+after cliking a lot of photos, we left the place at 2:00 PM.
+
+Next stop was Hemagiri Waterfalls, which was 30 minutes away from the lake. We reached the place at 2::40 PM.
+it was a small waterfall and a overflowing lake on the right side. 
+there was a 6feet way to walke aruond the lake. quite a peaceful moment.
+we clicked some photos and left the place at 3:30 PM.
+We planned to go to mysure as well by after checking woth our zoomcar host, we got to know that we wont be able to extend the booking since the car was already booked by someone else. So we decided
+to head back to bangalore.
+
+this time shuchita drove the car. we took the mysuru expressway.
+We reached bangalore at 6:30 PM. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2024/q1/IMG_20240615_131601~2.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG_20240615_145157.jpg" loading="lazy" alt="">
+    <img src="/images/2024/q1/IMG20240615144107.jpg" loading="lazy" alt="">
   </div>
   <em>Photos of savandurga hill</em>
 </div>
+
+
