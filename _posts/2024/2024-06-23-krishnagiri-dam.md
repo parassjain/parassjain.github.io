@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Krishnagiri Dam
-description: Went on a car trip to Bahiubali's statue in Shravanabelagola. The statue is 57 feet tall and is carved out of a single block of granite.
-date: 2024-06-15 10:00:00 +0530
-image: "/images/2024/IMG_2964.jpeg"
-tags: [2024, bangalore, trek, bmw]
-people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+description: Spontaneous bike trip to Krishnagiri Dam with friends. The dam is a popular spot for picnics and offers stunning views of the surrounding hills.
+date: 2024-06-23 08:00:00 +0530
+image: "/images/2024/IMG_0325.jpg"
+tags: [2024, bangalore, bmw]
+people: [himanshu, jaideep]
+location: Krishnagiri Dam [https://maps.app.goo.gl/SFd5hCtEA5uLCfFB8]
 ---
 
 Sometimes, the best way to spend a weekend is by reconnecting with nature and challenging oneself. That's exactly what we decided to do – embark on a trek to Asia's largest monolith hill, a perfect weekend escape from the hustle and bustle of Bangalore.
