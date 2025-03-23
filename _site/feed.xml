@@ -5,8 +5,8 @@
         <description></description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Mar 2025 15:48:24 +0530</pubDate>
-        <lastBuildDate>Sun, 23 Mar 2025 15:48:24 +0530</lastBuildDate>
+        <pubDate>Sun, 23 Mar 2025 15:56:24 +0530</pubDate>
+        <lastBuildDate>Sun, 23 Mar 2025 15:56:24 +0530</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
             <item>
@@ -85,6 +85,25 @@
             </item>
         
             <item>
+                <title>Snjana Wedding</title>
+                <description>
+</description>
+                <pubDate>Thu, 26 Dec 2024 10:00:00 +0530</pubDate>
+                <link>http://localhost:4000/blog/sanjana-wedding</link>
+                <guid isPermaLink="true">http://localhost:4000/blog/sanjana-wedding</guid>
+                
+                <category>_2024_</category>
+                
+                <category>bangalore</category>
+                
+                <category>trek</category>
+                
+                <category>bmw</category>
+                
+                
+            </item>
+        
+            <item>
                 <title>Mood Indigo and Zero Latency</title>
                 <description>
 </description>
@@ -132,21 +151,6 @@
                 <pubDate>Sat, 14 Dec 2024 15:45:00 +0530</pubDate>
                 <link>http://localhost:4000/blog/abbey-waterfall</link>
                 <guid isPermaLink="true">http://localhost:4000/blog/abbey-waterfall</guid>
-                
-                <category>_2024_</category>
-                
-                <category>bangalore</category>
-                
-                
-            </item>
-        
-            <item>
-                <title>Varanga Lake Jain Temple</title>
-                <description>
-</description>
-                <pubDate>Fri, 13 Dec 2024 17:30:00 +0530</pubDate>
-                <link>http://localhost:4000/blog/5-varanga</link>
-                <guid isPermaLink="true">http://localhost:4000/blog/5-varanga</guid>
                 
                 <category>_2024_</category>
                 

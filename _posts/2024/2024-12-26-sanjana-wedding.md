@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mysuru Palace & Vrindavan Gardens
+title: Snjana Wedding
 description: 
-date: 2024-06-15 10:00:00 +0530
+date: 2024-12-26 10:00:00 +0530
 image: "/images/2024/IMG_2964.jpeg"
 tags: ["_2024_", bangalore, trek, bmw]
 people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
