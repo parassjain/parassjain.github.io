@@ -5,7 +5,7 @@ description: Gateway to high ranges 🌉, we hit this bridge on the way to Munna
 date: 2024-01-27 10:00:00 +0530
 image: "/images/2024/q1/Neriamangalam-Arch-Bridge.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2024, kerala, munnar]
+tags: ["_2024_", kerala, munnar]
 people: [ujjwal, umakant]
 location: Neriamangalam Bridge[https://maps.app.goo.gl/Q8GHzCF375nxKRMy5]
 ---

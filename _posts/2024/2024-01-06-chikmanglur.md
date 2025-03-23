@@ -5,7 +5,7 @@ description: Revved our engines for a thrilling bike ride 🏍️ to Chikmagalur
 date: 2024-01-06 06:00:00 +0530
 image: "/images/2024/dji_mimo_20240106_164720_0_1704551821187_photo.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2024, bangalore, bmw, trek]
+tags: ["_2024_", bangalore, bmw, trek]
 people: [himanshu, jaideep, rahul]
 location: Chikmanglur [https://maps.app.goo.gl/ZUqzEv1NdpRzPco77]
 ---

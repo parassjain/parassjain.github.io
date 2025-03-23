@@ -4,7 +4,7 @@ title: Krishnagiri Dam
 description: Spontaneous bike trip to Krishnagiri Dam with friends. The dam is a popular spot for picnics and offers stunning views of the surrounding hills.
 date: 2024-06-23 08:00:00 +0530
 image: "/images/2024/IMG_0325.jpg"
-tags: [2024, bangalore, bmw]
+tags: ["_2024_", bangalore, bmw]
 people: [himanshu, jaideep]
 location: Krishnagiri Dam [https://maps.app.goo.gl/SFd5hCtEA5uLCfFB8]
 ---

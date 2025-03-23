@@ -5,7 +5,7 @@ description: A lively adventure with 7 college pals amidst breathtaking landscap
 date: 2024-02-11 06:00:00 +0530
 image: "/images/2024/IMG_1332.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2024, bangalore, bmw, trek]
+tags: ["_2024_", bangalore, bmw, trek]
 people: [om, mohit, shikhar, saavu, anvay, manan]
 location: Devrayanadurga [https://maps.app.goo.gl/AsuekxxYyacqgEN28]
 ---
