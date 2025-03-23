@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thailand Phuket
+title: Phuket, Thailand
 description: Magical nights on Bangla Street 👙, spiritual awe at Big Buddha 🏰, encounters with live tigers 🐅, exhilarating go-kart 🏎️ races, majestic elephant safari 🐘, and musical 🎷stroll down Old Town Road. 🎉✨🌃
 
 date: 2023-01-21 04:00:00 +0530
