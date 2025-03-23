@@ -6,5 +6,5 @@ date: 2024-11-29 10:00:00 +0530
 image: "/images/2024/IMG-20241129-WA0055.jpg"
 tags: ["2024", bangalore, bmw]
 people: [phonepe]
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+location: 
 ---

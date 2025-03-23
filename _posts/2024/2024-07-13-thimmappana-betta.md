@@ -6,5 +6,5 @@ date: 2024-07-16 06:30:00 +0530
 image: "/images/2024/IMG-20240716-WA0117.jpg"
 tags: ["2024", bangalore, trek, bmw]
 people: [phonepe]
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+location: 
 ---

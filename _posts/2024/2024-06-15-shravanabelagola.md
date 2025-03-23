@@ -6,7 +6,7 @@ date: 2024-06-15 10:00:00 +0530
 image: "/images/2024/q1/Shravanabelagola.jpg"
 tags: [2024, bangalore, car]
 people: [shuchita, saloni]
-location: Savandurga [https://maps.app.goo.gl/4vuhKBEKZBimBgPb6]
+location: 
 ---
 It had been a while since I last visited Shravanabelagola. Someone in our Gyanoday group mentioned they wanted to visit the place and were looking for company. On the same day, four of us connected over WhatsApp and decided to go on a road trip to see Bahubali’s statue.
 

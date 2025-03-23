@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Ancient Sri 1008 Bhagawan Shantinatha Digambara Jaina Basadi, Halebeedu
-description: Went on a car trip to Bahiubali's statue in Shravanabelagola. The statue is 57 feet tall and is carved out of a single block of granite.
-date: 2024-06-15 10:00:00 +0530
-image: "/images/2024/IMG_2964.jpeg"
-tags: ["2024", bangalore, trek, bmw]
-people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+description: A visit to the ancient Sri 1008 Bhagawan Shantinatha Digambara Jaina Basadi in Halebeedu, Karnataka, a magnificent temple with intricate carvings and a rich history.
+date: 2024-12-12 17:25:00 +0530
+image: "/images/2024/IMG20241212172823.jpg"
+tags: ["2024", bangalore]
+people: []
+location: 
 ---
 
 Sometimes, the best way to spend a weekend is by reconnecting with nature and challenging oneself. That's exactly what we decided to do – embark on a trek to Asia's largest monolith hill, a perfect weekend escape from the hustle and bustle of Bangalore.

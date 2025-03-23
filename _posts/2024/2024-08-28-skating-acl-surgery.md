@@ -6,5 +6,5 @@ date: 2024-08-29 07:00:00 +0530
 image: "/images/2024/IMG_20240829_072055.jpg"
 tags: ["2024", bangalore]
 people: []
-location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
+location: 
 ---
