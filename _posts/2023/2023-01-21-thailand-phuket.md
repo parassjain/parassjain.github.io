@@ -6,7 +6,7 @@ description: Magical nights on Bangla Street ðŸ‘™, spiritual awe at Big Buddha ð
 date: 2023-01-21 04:00:00 +0530
 image: "/images/2023/IMG_4906.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2023_", thailand, phuket]
+tags: ["_2023_", thailand, phuket, pending]
 people: [om, mohit, dubey, abhinav, nishant, shantanu]
 location: Phuket [https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6]
 ---

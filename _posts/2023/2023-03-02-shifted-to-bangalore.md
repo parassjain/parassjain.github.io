@@ -5,7 +5,7 @@ description: Just landed in Bangalore! 🛬 Living it up with friends – cookin
 date: 2023-03-02 12:00:00 +0530
 image: "/images/2023/IMG-20230324-WA0014.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2023_", bangalore]
+tags: ["_2023_", bangalore, pending]
 people: []
 location: Bangalore [https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---

@@ -5,7 +5,7 @@ description: Embarked on a sacred journey to Mangi Tungi with family, conquering
 date: 2023-03-12 07:00:00 +0530
 image: "/images/2023/IMG20230312072811.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2023_", maharashtra]
+tags: ["_2023_", maharashtra, pending]
 people: []
 location: Mangi Tungi[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6]
 ---

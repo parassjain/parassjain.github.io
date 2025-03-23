@@ -6,7 +6,7 @@ description: Went to Dibba Giri hills 🥾near Bangalore with work buddies. Saw 
 date: 2023-03-26 07:00:00 +0530
 image: "/images/2023/PXL_20230326_014520238.MP.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2023_", bangalore]
+tags: ["_2023_", bangalore, pending]
 people: [bipin, ujjwal, ashish, shubham, qure.ai]
 location: Dibbagiri Hills [https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6]
 ---
