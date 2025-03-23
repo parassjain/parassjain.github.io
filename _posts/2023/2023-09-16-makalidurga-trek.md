@@ -5,7 +5,7 @@ description: Embarked this trek with 2 pals 🚶‍♂️☀️. Initially baske
 date: 2023-09-16 08:00:00 +0530
 image: "/images/2023/IMG_20230916_101150.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, bangalore, bmw]
+tags: ["_2023_", bangalore, bmw]
 people: [ujjwal, umakant]
 location: Makalidurga[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---

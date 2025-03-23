@@ -5,7 +5,7 @@ description: An adrenaline-fueled 🚀 4 am adventure trek with friends, trespas
 date: 2023-10-02 04:00:00 +0530
 image: "/images/2023/IMG_8074.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, bangalore, bmw]
+tags: ["_2023_", bangalore, bmw]
 people: [om, mohit, shikhar, saavu]
 location: Makalidurga[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6]
 ---

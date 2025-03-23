@@ -5,7 +5,7 @@ description: A dam turned out to be a hidden gem. 🌟 Surrounded by beautiful l
 date: 2023-10-24 10:00:00 +0530
 image: "/images/2023/20231024_101725.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, banagalore, lake, bmw]
+tags: ["_2023_", banagalore, lake, bmw]
 people: [sudhanshu, anmol]
 location: Srinivasa Sagara Reservoir[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---

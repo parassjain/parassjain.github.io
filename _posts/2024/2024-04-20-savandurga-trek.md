@@ -4,7 +4,7 @@ title: Savandurga Trek
 description: Hiking on the asias largest monolith hill, with 5 ex Qureites. The steep trails tested our resolve as we pushed forward. My friend brought his drone  and we got some amazing shots.
 date: 2024-04-20 08:00:00 +0530
 image: "/images/2024/vlcsnap-2024-10-06-15h24m04s331.png"
-tags: ["2024", bangalore, trek, bmw]
+tags: ["_2024_", bangalore, trek, bmw]
 people: [sudhanshu, ujjwal, umakant, anmol, prakhar]
 location: Savandurga [https://maps.app.goo.gl/QhqdKtGnpZo9KMtq5]
 ---

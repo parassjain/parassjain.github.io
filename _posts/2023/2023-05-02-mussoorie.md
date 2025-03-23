@@ -5,7 +5,7 @@ description: Explored Mussoorie's misty hills 🏔️, embraced Mall Road's char
 date: 2023-05-02 10:00:00 +0530
 image: "/images/2023/IMG20230502164720.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, uk]
+tags: ["_2023_", uk]
 people: []
 location: Mussoorie [https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---

@@ -6,7 +6,7 @@ description: A 30km trek 5,617 feet above sea level 🏞️ toughest in Karnatak
 date: 2023-12-16 06:00:00 +0530
 image: "/images/DJI_20231217072558_0048_D-gif.gif"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: [2023, bangalore, trek]
+tags: ["_2023_", bangalore, trek]
 people: [pramod, dilruba]
 location: Kumar Parvata Trek[https://goo.gl/maps/6Z6Z1XZ6Z6Z6Z6Z6Z6
 ---
