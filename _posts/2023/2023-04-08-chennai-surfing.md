@@ -22,6 +22,14 @@ This was my first time visiting Chennai in about a year. We reached early in the
 
 That evening, we did nothing major—just explored Chennai, visited some random spots, and tried local food. While Om was familiar with the city, it was all new to me, so we spent the time wandering around.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2023/internal/IMG20230407151239.jpg" loading="lazy" alt="">
+    <img src="/images/2023/internal/IMG20230407170318.jpg" loading="lazy" alt="">
+  </div>
+  <em>Day at surfing</em>
+</div>
+
 Surfing at Kovalam Beach
 
 Surfing sessions start early in the morning, around 6 AM to 9 AM, because that’s when the waves are at their best, and the sun isn’t scorching yet. Once it gets past 9 AM, the heat becomes unbearable. Since Chennai is on the eastern coast, we also got to witness the sunrise over the horizon.
@@ -31,6 +39,15 @@ We booked a cab around 5:30 AM and reached Kovalam Beach in about 30 minutes. As
 At first, we weren’t sure who to talk to, but soon an instructor approached us. After a brief introduction, he informed us that the session would begin shortly. The experienced surfers there looked like pros—muscular and confident, as if they had been riding waves since childhood.
 
 We were given surfboards and a quick lesson on paddling, balancing, and standing up. This land-based training lasted about 30 minutes. Then, it was time to hit the water.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2023/internal/IMG_6774.jpg" loading="lazy" alt="">
+    <img src="/images/2023/internal/IMG_6826.jpg" loading="lazy" alt="">
+    <img src="/images/2023/internal/VID_20230408_083551627_exported_4146.jpg" loading="lazy" alt="">
+  </div>
+  <em>Photos of kovalam beach</em>
+</div>
 
 Hitting the Waves
 
@@ -54,8 +71,20 @@ In the evening, we wandered around Decathlon, buying random stuff. Later, we too
 
 At midnight, we headed to the beach. The moonlight reflected beautifully on the ocean, and we just sat there, listening to the waves. The night breeze, the sound of the sea, and the peaceful atmosphere made it a perfect way to end the day.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2023/internal/IMG_5850.jpg" loading="lazy" alt="">
+    <img src="/images/2023/internal/IMG20230408213006.jpg" loading="lazy" alt="">
+    <img src="/images/2023/internal/IMG20230408215412.jpg" loading="lazy" alt="">
+  </div>
+  <em>Photos of chennai beach ai night</em>
+</div>
+
 More Surfing and Final Thoughts
 
 The next morning, we had another incredible session at Surf Turf. This time, we bonded more with the coaches, all from Tamil Nadu, and watched professional surfers effortlessly ride the waves. Some of them performed jumps and tricks, making it look like an art form.
 
 Overall, surfing in Chennai was an amazing experience. From struggling to stand up on the board to finally catching small waves, it was a journey of learning and fun. Kovalam Beach and Surf Turf provided the perfect introduction to the sport, and I can’t wait to do it again!
+
+
+
