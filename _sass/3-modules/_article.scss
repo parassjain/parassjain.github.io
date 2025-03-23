@@ -37,6 +37,33 @@
   }
 }
 
+.article-tags-bar-box {
+  display: flex;
+  justify-content: center; // Center align tags horizontally
+  align-items: center; // Center align tags vertically if needed
+  flex-wrap: wrap; // Ensure tags wrap properly
+  margin-bottom: 8px;
+
+  .article__tag {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 0 4px 4px 0;
+    font-size: 10px;
+    line-height: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: var(--background-alt-color);
+
+    &:hover {
+      color: var(--dark);
+      background-color: var(--brand-color);
+    }
+  }
+}
+
 .article-tags__box {
   display: flex;
   margin-bottom: 8px;
