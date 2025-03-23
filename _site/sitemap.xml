@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2025-03-23T10:25:55+05:30</lastmod>
+<lastmod>2025-03-23T10:31:09+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
-<lastmod>2025-03-23T10:25:55+05:30</lastmod>
+<lastmod>2025-03-23T10:31:09+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/elements/</loc>
-<lastmod>2025-03-23T10:25:55+05:30</lastmod>
+<lastmod>2025-03-23T10:31:09+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2025-03-23T10:25:55+05:30</lastmod>
+<lastmod>2025-03-23T10:31:09+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/thailand-phuket</loc>
@@ -225,10 +225,6 @@
 <lastmod>2024-06-15T10:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/office-outing-shilhaandara</loc>
-<lastmod>2024-06-15T10:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/blog/thimmappana-betta</loc>
 <lastmod>2024-06-15T10:00:00+05:30</lastmod>
 </url>
@@ -331,6 +327,10 @@
 <url>
 <loc>http://localhost:4000/blog/mavathur-lake</loc>
 <lastmod>2024-07-07T08:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/office-outing-shilhaandara</loc>
+<lastmod>2024-07-12T09:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/project/the-season-to-be-jolly</loc>
