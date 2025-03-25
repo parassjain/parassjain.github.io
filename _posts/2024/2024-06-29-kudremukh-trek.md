@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kudrekukh Trek
+title: Kudremukh Trek
 description: A weekend trek to Kudremukh with BMC Adventure Club. The trail was slippery due to rain and full of leeches, but the views from the top were worth it.
 date: 2024-06-29 06:00:00 +0530
 image: "/images/2024/IMG_0447.jpg"
