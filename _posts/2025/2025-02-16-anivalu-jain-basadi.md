@@ -51,5 +51,18 @@ it was around 7:30am just start our journey. i was damn sure we wont make it bac
 
 weather was still cozy and leaned towards the wind to take a nap, but he city roads were bumpy, which were constantly making me hit the window.
 so i watined for a while till the city roads are over so i can take some rest, i knew the day is gonna get long. i took a nap for about 1-2 hour then bus took a break. those who missed the breakfast started having breakfast. since i already had breakfast i chose not to eat again.
-i was stand next to the but itself, and there was a group of yound boys in their early 20s having fun messing around with each other. one of them asked if i was with someone, i said, "no, i came by my self". how the time passed and we started having conversation. so they are regular members of gyanoday abhishek group who go to temple for abhishek daily. onle 4 of them came for this trip. 2 of them are from karnatak itself, and 2 are from north. akkole ji are from sadlaga itself our  guru acharya shri ki's hometown.
+i was stand next to the but itself, and there was a group of yound boys in their early 20s having fun messing around with each other. one of them asked if i was with someone, i said, "no, i came by my self". how the time passed and we started having conversation. so they are regular members of gyanoday abhishek group who go to temple for abhishek daily. onle 4 of them came for this trip. 2 of them are from karnatak itself, and 2 are from north. akkole ji are from sadlaga itself our  guru acharya shri ji's hometown. 
+
+while other were having rbeakfast we went to have some tea to a shop across the road.
+i see several biker groups passing by us on the mangalore highway. it reminded me of my bike trips on this road.
+
+We had a good time chatting while sipping tea, and i was feeling good that i am finally making some friends.
+
+after the break we started again, and i was sitting with these guys. I got to know another guy who was sitting next to me, his name is also paras jain. he works in Netradyne and he studied from iit bhu and they go to shikharji every year sponsorred by jain juniors from the college, arounf 150 folks go every year.
+
+We statred having some conversation about work, something related to code and database optimsation.
+time passed and we reached the temple around 12:30pm.
+
+
+we were greeted by the local jain community, and they were very happy to see us.
 
