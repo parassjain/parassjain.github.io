@@ -5,7 +5,7 @@ description: 3 disobedient kids from UP, Delhi and MP, exploring the bird sanctu
 date: 2024-01-28 13:00:00 +0530
 image: "/images/2024/2020-03-01.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2024_", kerela]
+tags: ["_2024_", kerela, pending]
 people: [ujjwal, umakant]
 location: Mangalavanam Bird Sanctuary [https://maps.app.goo.gl/NtZmadtDkjSbPWfU8]
 ---
