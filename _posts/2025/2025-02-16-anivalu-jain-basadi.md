@@ -6,7 +6,7 @@ date: 2025-02-16 10:00:00 +0530
 image: "/images/2025/IMG-20250217-WA0014.jpg"
 tags: ["_2025_", bangalore]
 people: []
-location: 
+location:
 ---
 
 A Day of Volunteering: Restoring a Forgotten Jain Temple
@@ -46,8 +46,34 @@ While others finished eating, we crossed the road for tea. Watching biker groups
 
 Back on the bus, I sat with these new friends. One of them, also named Paras Jain, worked at Netradyne and had studied at IIT BHU. Every year, they organize a sponsored Shikharji trip for around 150 Jain juniors from his college. We even chatted a bit about work—coding, database optimization, and the usual tech stuff. Time flew, and we reached Anivalu around 12:30 PM.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2025/internal/anivalu/DSC_0085.JPG" loading="lazy" alt="Anivalu Image 1">
+    <img src="/images/2025/internal/anivalu/IMG20250216132323.jpg" loading="lazy" alt="Anivalu Image 2">
+        <img src="/images/2025/internal/anivalu/DSC_0218.JPG" loading="lazy" alt="Anivalu Image 3">
+            <img src="/images/2025/internal/anivalu/DSC_0141.JPG" loading="lazy" alt="Anivalu Image 2">
+
+        </div>
+
+<em>Photos of Temple before cleaing</em>
+
+</div>
+
 The Restoration Begins
 The local Jain community welcomed us warmly. We washed our hands and climbed about 30 steps to the temple. At first glance, it was clear the temple hadn’t been maintained in years—bushes everywhere, layers of dust.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2025/internal/anivalu/DSC_0149.JPG" loading="lazy" alt="Anivalu Image 3">
+    <img src="/images/2025/internal/anivalu/DSC_0161.JPG" loading="lazy" alt="Anivalu Image 4">
+    <img src="/images/2025/internal/anivalu/DSC_0171.JPG" loading="lazy" alt="Anivalu Image 5">
+    <img src="/images/2025/internal/anivalu/DSC_0295.JPG" loading="lazy" alt="Anivalu Image 7">
+    <img src="/images/2025/internal/anivalu/DSC_0412.JPG" loading="lazy" alt="Anivalu Image 9">
+    <img src="/images/2025/internal/anivalu/DSC_0708.JPG" loading="lazy" alt="Anivalu Image 13">
+    <img src="/images/2025/internal/anivalu/IMG-20250216-WA0049.jpg" loading="lazy" alt="Anivalu Image 17">
+  </div>
+  <em>Photos of Temple during cleaning</em>
+</div>
 
 Coincidentally, the temple got its electricity connection that very day. After the meter was inaugurated, we did darshan.
 
@@ -75,6 +101,15 @@ But in my head, I was thinking, I’m not even staying here long-term… and eve
 
 That interaction left a bitter taste. It didn’t matter that I came from afar and was helping restore their temple—they were more bothered about the language I spoke. For a second, I wondered if it was even worth it. But I shook off those thoughts and reminded myself to stay in the moment.
 
+<div class="gallery-box">
+  <div class="gallery">
+        <img src="/images/2025/internal/anivalu/DSC_0618.JPG" loading="lazy" alt="Anivalu Image 12">
+    <img src="/images/2025/internal/anivalu/DSC_0777.JPG" loading="lazy" alt="Anivalu Image 15">
+    <img src="/images/2025/internal/anivalu/DSC_0391.JPG" loading="lazy" alt="Anivalu Image 8">
+        <img src="/images/2025/internal/anivalu/IMG-20250216-WA0064.jpg" loading="lazy" alt="Anivalu Image 18">
+        </div>
+  <em>Photos of Temple after cleaing</em>
+</div>
 A Job Well Done
 After three hours of hard work, the temple looked beautiful. Cleaned inside and out, with all the bushes gone, it felt like we had brought something back to life.
 
@@ -82,9 +117,21 @@ We took some group pictures and then had lunch—bisibelebath, curd, chips, and 
 
 We went inside for darshan and pooja. The temple looked divine. The pooja was led by the local priest, and afterward, the community members gave a heartfelt thank-you speech.
 
-By now it was 5 PM, and we headed to our next stop—a Jain temple in Chikka Hanasoge, about 30 minutes away. From there, we visited several more temples in Saligrama.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2025/internal/anivalu/DSC_0603.JPG" loading="lazy" alt="Anivalu Image 11">
+        <img src="/images/2025/internal/anivalu/DSC_0761.JPG" loading="lazy" alt="Anivalu Image 14">
+    <img src="/images/2025/internal/anivalu/DSC_0785.JPG" loading="lazy" alt="Anivalu Image 16">
+        <img src="/images/2025/internal/anivalu/IMG20250216163239.jpg" loading="lazy" alt="Anivalu Image 20">
 
-In Saligrama, we were invited to the home of the family that sponsored our food. They welcomed us warmly and served tea and snacks. We spent some time chatting before heading back to Bangalore around 8 PM.
+        </div>
+
+<em>Photos of Temple after cleaing</em>
+
+</div>
+In 
+By now it was 5 PM, and we headed to our next stop—a Jain temple in Chikka Hanasoge, about 30 minutes away. From there, we visited several more temples in Saligrama.
+Saligrama, we were invited to the home of the family that sponsored our food. They welcomed us warmly and served tea and snacks. We spent some time chatting before heading back to Bangalore around 8 PM.
 
 Reflections
 It was a good day. I made some new friends, had meaningful conversations, and contributed to something worthwhile.
@@ -92,7 +139,3 @@ It was a good day. I made some new friends, had meaningful conversations, and co
 Once we returned to Bangalore, everyone grabbed their bikes and headed home.
 
 Despite the language gaps and awkward moments, I left with a sense of purpose—and a deeper connection to my community.
-
-
-
-
