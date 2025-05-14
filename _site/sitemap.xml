@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2025-04-07T21:54:42+05:30</lastmod>
+<lastmod>2025-05-14T22:28:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
-<lastmod>2025-04-07T21:54:42+05:30</lastmod>
+<lastmod>2025-05-14T22:28:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/elements/</loc>
-<lastmod>2025-04-07T21:54:42+05:30</lastmod>
+<lastmod>2025-05-14T22:28:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2025-04-07T21:54:42+05:30</lastmod>
+<lastmod>2025-05-14T22:28:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/thailand-phuket</loc>
@@ -105,7 +105,7 @@
 <lastmod>2023-07-06T18:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/mysuru</loc>
+<loc>http://localhost:4000/blog/mysuru1</loc>
 <lastmod>2023-07-29T08:00:00+05:30</lastmod>
 </url>
 <url>
@@ -121,7 +121,7 @@
 <lastmod>2023-08-27T14:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/makalidurga-trek</loc>
+<loc>http://localhost:4000/blog/makalidurga-trek1</loc>
 <lastmod>2023-09-16T08:00:00+05:30</lastmod>
 </url>
 <url>
@@ -133,7 +133,7 @@
 <lastmod>2023-09-30T06:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/makalidurga-trek</loc>
+<loc>http://localhost:4000/blog/makalidurga-trek2</loc>
 <lastmod>2023-10-02T04:00:00+05:30</lastmod>
 </url>
 <url>
@@ -141,7 +141,7 @@
 <lastmod>2023-10-08T09:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/nelligudde-kere</loc>
+<loc>http://localhost:4000/blog/nelligudde-kere1</loc>
 <lastmod>2023-10-22T18:00:00+05:30</lastmod>
 </url>
 <url>
@@ -153,7 +153,7 @@
 <lastmod>2023-10-29T06:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/nelligudde-kere</loc>
+<loc>http://localhost:4000/blog/nelligudde-kere2</loc>
 <lastmod>2023-11-04T05:01:35+05:30</lastmod>
 </url>
 <url>
@@ -217,7 +217,7 @@
 <lastmod>2024-04-20T08:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/shravanabelagola</loc>
+<loc>http://localhost:4000/blog/shravanabelagola2</loc>
 <lastmod>2024-06-15T10:00:00+05:30</lastmod>
 </url>
 <url>
@@ -257,7 +257,7 @@
 <lastmod>2024-12-12T12:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/2-shravenbelagola</loc>
+<loc>http://localhost:4000/blog/2-shravenbelagola3</loc>
 <lastmod>2024-12-12T14:20:00+05:30</lastmod>
 </url>
 <url>
@@ -289,7 +289,7 @@
 <lastmod>2024-12-14T15:45:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/mysuru</loc>
+<loc>http://localhost:4000/blog/mysuru2</loc>
 <lastmod>2024-12-15T12:00:00+05:30</lastmod>
 </url>
 <url>
@@ -327,6 +327,10 @@
 <url>
 <loc>http://localhost:4000/project/baleno-3149</loc>
 <lastmod>2025-01-01T08:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/project/2025-01-012-baleno-4654</loc>
+<lastmod>2025-01-02T08:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/</loc>
