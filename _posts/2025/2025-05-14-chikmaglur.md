@@ -83,7 +83,7 @@ Eventually, we got back on the road and cruised toward Chikmagalur. By 12:30 PM,
 </div>
   <em>us at the dam</em>
 </div>
-Our Airbnb, booked through Atheria Hospitality, turned out to be a cozy little spot—clean, welcoming, and most importantly, with enough parking space for 5–6 cars. That was a win in itself. We unloaded our bags, took a quick break to freshen up, and then set out to explore Chikmagalur.
+Our Airbnb, Atheria Hospitality(https://maps.app.goo.gl/mpAcPH8wRyb1AU2a7), turned out to be a cozy little spot—clean, welcoming, and most importantly, with enough parking space for 5–6 cars. That was a win in itself. We unloaded our bags, took a quick break to freshen up, and then set out to explore Chikmagalur.
 
 Our first stop was Shri Deviramma Temple, a small yet beautiful temple tucked right in the heart of the town. It was quiet, with just a few locals around, which made the visit feel calm and personal. We spent some time there, taking in the peaceful atmosphere and snapping plenty of photos—the mountain behind the temple was a stunning sight, almost completely wrapped in clouds.
 
@@ -121,3 +121,81 @@ It was such a simple moment, but unforgettable. With the cold wind, the warmth o
 We reached back to town by around 7 PM. Pranika wasn’t feeling too well, so we decided it was best to return to the Airbnb and rest for a bit.
 On the way, I knew a small lake nearby and thought of squeezing in one last spot before calling it a day. But as luck would have it, the entry gate had closed at 6 PM. So, we made a quick U-turn and headed straight back to the stay.
 Despite the change in plans, it didn’t matter much—the day had been well spent. From serene temples to roaring waterfalls, scenic drives to hot bhutta in the rain—it was everything a monsoon road trip in the Western Ghats should be.
+
+
+We woke up to a cold, cloudy morning—air crisp, fresh, and carrying that post-rain scent. There were no fixed plans for the day, just a shared desire to explore more of Chikmagalur’s magic. A light drizzle had already begun; the kind that makes you want to sip chai and take a long drive.
+
+Our plan was to visit Mullyanagiri Peak, the highest peak in Karnataka. We knew it would be a long drive, but it felt like a must-do.
+
+By 9 AM, we were all up, dressed, and ready. We grabbed breakfast on the way and started our journey. The drive was scenic, as expected, with mist rolling across the winding roads. We reached the base of the peak around 11 AM.
+
+But from there, things got a little crazy.
+
+Traffic was a mess. The roads were jammed with cars, and the entire mountain was wrapped in thick clouds. Visibility dropped to just a few feet. After crawling up the slow-moving road, we finally reached the top parking area—only to find out that the final stretch of road to the peak was closed for the weekend.
+
+Local Bolero drivers were offering rides for ₹300 to take visitors the last 3 km to the top. We initially declined and climbed a nearby hilltop instead, just to explore. It was super windy—like, hold-your-ground-or-fly-away kind of windy. Clouds swirled all around us, and we couldn’t see more than a few meters ahead. Still, there was something oddly beautiful about it. The mountain may have hidden its views, but it gave us a mood that was cinematic.
+
+We clicked a few photos, mostly just fog and wind-whipped hair, then decided to take the Bolero ride after all. It was supposed to be a 3 km trip, but the driver dropped us after 2 km because the road ahead was under construction. So, we walked the last kilometer ourselves.
+
+And oh boy—that walk.
+
+The wind was insane. It wasn’t just cold—it was forceful. Gusts hit us like walls, and since we were all wearing raincoats, it felt like parachutes trying to fly off. We had to lean forward and brace ourselves with every step.
+
+Then came the final stretch: the trek to the peak.
+
+The path was steep, rocky, and slippery due to the rain. We took it slow and steady. The wind kept slamming into us, making even short strides feel like a workout. But the determination was real—ab yaha tak aaye hain toh peak toh dekhna padega.
+
+After a wild, almost life-threatening 30-minute climb, we finally made it to the top.
+
+The view? Still completely hidden behind clouds. But the feeling? Unreal.
+
+Standing at the highest point in Karnataka, drenched in cold rain, with wind howling around us and zero visibility—it was surreal. We had to widen our stance just to stay upright. There was a small temple at the top, quiet and timeless, offering a peaceful contrast to the chaos of the weather. We spent some time there, taking it all in.
+
+The descent began soon after. It was still windy and slippery, but easier than the climb. By the time we reached the Bolero pickup point, we were soaked to the bone and completely exhausted—but also buzzing from the experience.
+
+We walked another kilometer back to the parking area, got into the car, and thankfully, we had packed spare clothes. One by one, we changed in the car itself—finally warm, dry, and proud. We had braved the storm and stood atop Karnataka.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2025/internal/chikmaglur/IMG_4633.jpg" loading="lazy" alt="image">
+    <img src="/images/2025/internal/chikmaglur/IMG_4629.jpg" loading="lazy" alt="image">
+    <img src="/images/2025/internal/chikmaglur/IMG_4616.jpg" loading="lazy" alt="image">
+    <img src="/images/2025/internal/chikmaglur/IMG_4610.jpg" loading="lazy" alt="image">
+</div>
+  <em>all of us after small hike, me at the temple and the temple itself</em>
+</div>
+Back at the car, we finally felt the comfort of dry clothes clinging to our skin—a quiet luxury after hours of cold rain and howling winds. Our limbs were sore, our bodies drained, and our stomachs loudly reminding us it was past lunchtime.
+
+I eased the car into gear and began the descent from Mullayanagiri. The narrow roads were slick, and the fog wrapped itself around the hills like a thick white curtain. Visibility was near zero—just the faint glow of our headlights carving a path forward through the clouds. It felt like we were floating through the sky.
+
+Eventually, we made it down safely, hearts still racing a little. We passed through Chikmagalur town once more, but time was ticking and hunger was building, so we skipped stopping there. We figured we’d grab food somewhere along the highway instead.
+
+Roughly 100 kilometers later, we pulled over at a roadside dhaba that looked promising from the outside—warm lighting, rustic charm, and glowing online reviews. Hopes were high.
+
+But reality had other plans.
+
+The service was painfully slow, and the food... completely underwhelming. Bland, lukewarm, and definitely not worth the wait. We sat around, trying to salvage the moment with forced laughter and sarcasm. And to top it all off—they didn’t even serve tea. A roadside dhaba with no tea. It felt borderline criminal.
+
+Turns out, the place had great reviews—for breakfast. Not lunch. Timing really is everything.
+
+We paid the bill, slightly disappointed, and got back on the road. But the trip wasn’t done yet—not just yet.
+
+Somewhere along the way, in the quiet village of Halebeedu, we made a stop. I had been here before, but I wanted my friends to see it—the Ancient Sri 1008 Bhagawan Shantinatha Digambara Jaina Basadi. It’s not a place that screams for attention. No crowds, no noise. Just timeless stonework, silence, and history carved into every inch of the temple.
+
+We wandered around slowly, taking in the stunning detail of the carvings. It was peaceful. Still. A perfect pause before the end of our journey. Cameras clicked, but it was the quiet that we’ll remember.
+
+As the sun dipped behind the hills, we began our final stretch home.
+
+Shikhar and I took turns behind the wheel, gliding through smooth roads under a soft, golden sky. The monsoon mist had faded, and the weather was perfect—cool and calm, as if the trip itself was easing us back into reality.
+
+By 8 PM, the lights of Bangalore greeted us.
+
+Tired? Yes.
+Soaked in memories? Absolutely.
+
+It was more than just a trip. It was a story—a road soaked in rain, laughter, clouds, and quiet places that left a mark on us all.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2025/internal/chikmaglur/IMG20250615160817.jpg" loading="lazy" alt="image">
+</div>
+  <em>me at the temple and the temple itself</em>
+</div>
