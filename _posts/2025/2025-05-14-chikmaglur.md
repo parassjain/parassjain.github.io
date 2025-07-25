@@ -3,7 +3,7 @@ layout: post
 title: Chikmagalur
 description: Packed with scenic beauty, food mishaps, surprise reunions, cab drama, and laughter-filled moments. Chaos, adventure, and bonding made it an unforgettable long weekend escape.
 date: 2025-06-14 04:00:00 +0530
-image: "/images/2025/internal/chikmaglur/IMG_4588.jpg"
+image: "/images/2025/internal/chikmaglur/IMG_4587.jpg"
 tags: ["_2025_", bangalore]
 people: [mohit, shikhar, pranika]
 location: 
