@@ -11,7 +11,7 @@ location:
 
 It had been a long time—too long—since we, a group of old college friends, had hit the road together.
 
-The calendar showed a free weekend on the horizon. I locked in my car reservation without a second thought. The core crew was ready: me, Mohit, Shikhar, and Pranika—Shikhar’s friend. A road trip was brewing.
+The calendar showed a free weekend on the horizon. I locked in my car reservation without a second thought. The core crew was ready: me, Mohit, Shikhar, and Pranika. A road trip was brewing.
 
 We reached out to Shikhar’s flatmates—also part of our college gang—but they were already tied up with their own weekend plans. No hard feelings. This trip was happening either way.
 
