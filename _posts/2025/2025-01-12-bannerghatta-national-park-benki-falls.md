@@ -4,7 +4,7 @@ title: Bannerghatta National Park and Benki Falls
 description: A day spent at Bannerghatta National Park and Benki Falls with friends.
 date: 2025-01-12 10:00:00 +0530
 image: "/images/2025/DJI_20250112172640_0314_D.JPG"
-tags: ["_2025_", bangalore, pending]
+tags: ["_2025_", bangalore]
 people: []
 location:
 ---
@@ -53,6 +53,8 @@ As we prepared to leave, a GPS mishap sent Mohit and me on a surprise adventureâ
     <img src="/images/2025/internal/bannerghatta/IMG20250112142533.jpg" loading="lazy" alt="image">
     <img src="/images/2025/internal/bannerghatta/IMG_0814.jpg" loading="lazy" alt="image">
     <img src="/images/2025/internal/bannerghatta/IMG20250112115732.jpg" loading="lazy" alt="image">
+    <img src="/images/2025/internal/bannerghatta/butterfly_park.jpg" loading="lazy" alt="image">
+
   </div>
     <em>photos from bannerghatta national park</em>
 </div>
