@@ -62,6 +62,7 @@ mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315a
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
 
+formspree_url: https://formspree.io/f/mdkdlgyw
 
 #-------------------------------
 # Projects Settings
