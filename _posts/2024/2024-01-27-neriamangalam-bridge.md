@@ -5,7 +5,7 @@ description: Gateway to high ranges 🌉, we hit this bridge on the way to Munna
 date: 2024-01-27 10:00:00 +0530
 image: "/images/2024/q1/Neriamangalam-Arch-Bridge.jpg"
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags: ["_2024_", kerala, munnar, pending]
+tags: ["_2024_", kerala, munnar]
 people: [ujjwal, umakant]
 location: Neriamangalam Bridge[https://maps.app.goo.gl/Q8GHzCF375nxKRMy5]
 ---
@@ -30,6 +30,14 @@ location: Neriamangalam Bridge[https://maps.app.goo.gl/Q8GHzCF375nxKRMy5]
 - either the truck driver was expert or we were lucky, but we survived.
 - we were scared to death and it took us 2 min to reaadlied that we just dodged death.
 - after looking at each other, we laughed and moved on.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/2024/q1/vlcsnap-2025-08-02-21h18m31s172.png" loading="lazy" alt="">
+    <img src="/images/2024/q1/vlcsnap-2025-08-02-21h15m54s578.png" loading="lazy" alt="">
+    <img src="/images/2024/q1/vlcsnap-2025-08-02-21h18m47s523.png" loading="lazy" alt="">
+  </div>
+  <em>ordered snapshots of the truck passing by</em>
+</div>
 - we continued out juorney to Munnar.
 - --- read munnar blog here--
 - while coming back from Munnar, we reached the same bridge.

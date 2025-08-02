@@ -83,7 +83,7 @@ Eventually, we got back on the road and cruised toward Chikmagalur. By 12:30 PM,
 </div>
   <em>us at the dam</em>
 </div>
-Our Airbnb, Atheria Hospitality(https://maps.app.goo.gl/mpAcPH8wRyb1AU2a7), turned out to be a cozy little spot—clean, welcoming, and most importantly, with enough parking space for 5–6 cars. That was a win in itself. We unloaded our bags, took a quick break to freshen up, and then set out to explore Chikmagalur.
+Our Airbnb, [Atheria Hospitality](https://maps.app.goo.gl/mpAcPH8wRyb1AU2a7), turned out to be a cozy little spot—clean, welcoming, and most importantly, with enough parking space for 5–6 cars. That was a win in itself. We unloaded our bags, took a quick break to freshen up, and then set out to explore Chikmagalur.
 
 Our first stop was Shri Deviramma Temple, a small yet beautiful temple tucked right in the heart of the town. It was quiet, with just a few locals around, which made the visit feel calm and personal. We spent some time there, taking in the peaceful atmosphere and snapping plenty of photos—the mountain behind the temple was a stunning sight, almost completely wrapped in clouds.
 
