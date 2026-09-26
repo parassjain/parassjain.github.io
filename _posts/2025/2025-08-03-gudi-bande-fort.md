@@ -3,7 +3,7 @@ layout: post
 title: Gudi Bande Fort
 description:
 date: 2025-08-03 10:00:00 +0530
-image:
+image: "/images/2025/internal/gudi-bande-fort/cover.jpeg"
 tags: ["_2025_", bangalore, pending]
 people: []
 location:
