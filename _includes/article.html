@@ -22,6 +22,7 @@
     <div class="article-info">
       <a href="{{site.baseurl}}/about/" class="article__author-link">{{site.data.settings.author.author__name}}</a> –
       <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      {% include visit-count.html entry=post %}
     </div>
   </div>
 

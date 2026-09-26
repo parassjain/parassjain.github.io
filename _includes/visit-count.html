@@ -1,0 +1,16 @@
+{% assign entry = include.entry %}
+{% assign place = entry.title | downcase | replace: " 2.0", "" | replace: " 3.0", "" | strip %}
+{% assign visit_total = 0 %}
+{% assign visit_number = 0 %}
+{% for item in site.posts %}
+  {% assign item_place = item.title | downcase | replace: " 2.0", "" | replace: " 3.0", "" | strip %}
+  {% if item_place == place %}
+    {% assign visit_total = visit_total | plus: 1 %}
+    {% if item.date <= entry.date %}
+      {% assign visit_number = visit_number | plus: 1 %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% if visit_total > 1 %}
+<span class="visit-count">Visit {{ visit_number }}</span>
+{% endif %}

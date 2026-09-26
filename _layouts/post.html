@@ -20,6 +20,7 @@ layout: default
           <div class="post-meta">
             <a href="{{site.baseurl}}/about/" class="post-author-link">{{site.data.settings.author.author__name}}</a> –
             <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+            {% include visit-count.html entry=page %}
           </div>
         </div>
       </div>
