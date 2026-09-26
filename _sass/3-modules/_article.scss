@@ -136,13 +136,8 @@
   line-height: 1;
 
   .article__author-link,
-  .article__date,
-  .visit-count {
+  .article__date {
     color: var(--text-color);
     transition: none;
   }
-}
-
-.visit-count::before {
-  content: "– ";
 }
