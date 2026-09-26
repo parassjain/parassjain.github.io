@@ -3,7 +3,7 @@ layout: post
 title: Kodaikanal 2.0
 description:
 date: 2025-11-22 10:00:00 +0530
-image:
+image: "/images/2025/internal/kodaikanal2/cover.jpg"
 tags: ["_2025_", bangalore, pending]
 people: [saloni]
 location:
