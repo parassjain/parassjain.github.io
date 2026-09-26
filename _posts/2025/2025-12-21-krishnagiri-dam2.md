@@ -3,7 +3,7 @@ layout: post
 title: Krishnagiri Dam 2.0
 description:
 date: 2025-12-21 10:00:00 +0530
-image:
+image: "/images/2025/internal/krishnagiri-dam2/cover.jpg"
 tags: ["_2025_", bangalore, pending]
 people: []
 location:
