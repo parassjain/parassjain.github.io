@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mysore
+title: Hogenakkal 2.0
 description:
-date: 2026-06-20 10:00:00 +0530
+date: 2026-02-08 10:00:00 +0530
 image:
 tags: ["_2026_", bangalore, pending]
 people: []
 location:
 ---
-Placeholder. 20–21 June 2026.
+Placeholder. 8 Feb 2026.

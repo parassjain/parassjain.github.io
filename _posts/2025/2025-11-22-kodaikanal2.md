@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kodaikanal
+title: Kodaikanal 2.0
 description:
 date: 2025-11-22 10:00:00 +0530
 image:
