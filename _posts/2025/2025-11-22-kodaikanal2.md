@@ -5,7 +5,7 @@ description:
 date: 2025-11-22 10:00:00 +0530
 image: "/images/2025/internal/kodaikanal2/cover.jpg"
 tags: ["_2025_", bangalore, pending]
-people: [saloni]
+people: [friends]
 location:
 ---
-Placeholder. 22–23 Nov 2025, with Saloni.
+Placeholder. 22–23 Nov 2025, with friends.
